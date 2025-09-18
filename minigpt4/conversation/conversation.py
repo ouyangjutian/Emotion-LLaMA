@@ -260,7 +260,7 @@ class Chat:
             samples, sr = extract_audio_from_video(video_path)
             # print("samples:", samples)
 
-            model_file = "checkpoints/transformer/chinese-hubert-large"
+            model_file = "/home/project/Dataset/Emotion/tools/transformer/chinese-hubert-large"
             feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained(model_file)
             input_values = feature_extractor(samples, sampling_rate=sr, return_tensors="pt").input_values
             # print("input_values:", input_values)

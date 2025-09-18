@@ -1,0 +1,1043 @@
+samplenew_00057722 brow lowerer, speaks in a fearful tone
+samplenew_00055552 brow lowerer, and his tone sounds natural
+samplenew_00062892 brow lowerer, does not speak with any of the emotions listed
+samplenew_00042588 lower the brow, press the lips together, lips forming an upward curve, speaks in a normal tone
+samplenew_00025298 anxiously stretched lips, speaks in a neutral tone
+samplenew_00030965 happy
+samplenew_00055262 slight frown, speaks in a normal tone
+samplenew_00016172 angry
+samplenew_00016654 lower the brow, tightening of eyelids, chin raiser, speaks with a fearful tone
+samplenew_00008830 sad
+samplenew_00052671 angry
+samplenew_00044875 cheek dimple, does not speak with any of the emotions listed
+samplenew_00024812 slightly lower eyebrows, toothy smile, dimpler, speaks in a fearful tone
+samplenew_00045077 happy
+samplenew_00015736 angry
+samplenew_00051076 sad
+samplenew_00028010 sad
+samplenew_00008999 brow lowerer, downturned lips, speaks in a normal tone
+samplenew_00007045 frowns furrowed, lips apart showing teeth, does not speak with any of the emotions listed
+samplenew_00033885 angry
+samplenew_00011731 lip corner puller, speaks in a cheerful voice
+samplenew_00056694 brow lowerer, facial tightness, does not speak with any of the emotions listed
+samplenew_00001918 lower the brow, curl the lips upwards, speaks in a normal tone
+samplenew_00023761 angry
+samplenew_00034958 sad
+samplenew_00032438 worried
+samplenew_00002906 inner brow raiser, speaks in a fearful manner
+samplenew_00062680 sad
+samplenew_00028015 lower eyebrows, curl the lips upwards, lips arching, does not speak with any of the emotions listed
+samplenew_00058098 lift upper eyelids, tightening of eyelids, speaks in a fearful voice
+samplenew_00061719 angry
+samplenew_00060122 worried
+samplenew_00056033 frowns furrowed, speaks in a normal tone
+samplenew_00006314 happy
+samplenew_00047189 sad
+samplenew_00004131 happy
+samplenew_00026963 angry
+samplenew_00039737 angry
+samplenew_00021687 angry
+samplenew_00005539 happy
+samplenew_00040218 frowns furrowed, facial tightness, curl the lips upwards, speaks in a neutral tone
+samplenew_00051913 happy
+samplenew_00024266 angry
+samplenew_00016824 lower eyebrows, upper lid raiser, does not speak with any of the emotions listed
+samplenew_00009120 show teeth, indentation when smiling, and her tone sounds positive
+samplenew_00039942 brow lowerer, speaks in a fearful manner
+samplenew_00038646 grinning, speaks in a fearful tone
+samplenew_00067327 brow lowerer, lid tightener, speaks in a normal tone
+samplenew_00037211 brow lowerer, does not speak with any of the emotions listed
+samplenew_00004709 smile, pleasure, and his tone sounds negative
+samplenew_00040549 angry
+samplenew_00027403 angry
+samplenew_00061171 lower eyebrows, eyes widened, does not speak with any of the emotions listed
+samplenew_00042440 lower the brow, chin raiser, and his tone sounds natural
+samplenew_00032479 frowns furrowed, speaks in a fearful tone
+samplenew_00017651 angry
+samplenew_00000056 happy
+samplenew_00019667 toothy smile, and her tone sounds positive
+samplenew_00034988 brow lowerer, facial tightness, curl the lips upwards, speaks in a normal tone
+samplenew_00040212 lower the brow, pupil enlargement, tightening of eyelids, upper lip lift, and her tone sounds negative
+samplenew_00064268 lower eyebrows, eyes widened, does not speak with any of the emotions listed
+samplenew_00027927 worried
+samplenew_00016712 sad
+samplenew_00050950 angry
+samplenew_00015955 lips apart showing teeth, does not speak with any of the emotions listed
+samplenew_00006333 brow lowerer, speaks in a fearful tone
+samplenew_00033712 lower eyebrows, lips apart showing teeth, speaks in a normal tone
+samplenew_00020208 frowns furrowed, and his tone sounds negative
+samplenew_00047892 angry
+samplenew_00008286 happy
+samplenew_00002333 eyes narrowing, grinning, speaks with a fearful emotion
+samplenew_00055974 angry
+samplenew_00040283 nostrils enlarge, speaks in a fearful tone
+samplenew_00037858 lower eyebrows, pupil enlargement, upper lip lift, lips arching, speaks with a fearful tone
+samplenew_00015192 angry
+samplenew_00003985 happy
+samplenew_00005842 slight drooping of the mouth, and his tone sounds negative
+sample_00005541 lid tightener, speaks with a neutral tone
+samplenew_00003593 facial tightness, and her tone sounds natural
+samplenew_00007364 angry
+samplenew_00011699 angry
+samplenew_00028306 brow lowerer, pupil enlargement, speaks with a fearful tone
+samplenew_00048768 eyes narrowing, and her tone sounds positive
+samplenew_00002344 angry
+sample_00006912 happy
+samplenew_00067730 angry
+samplenew_00009630 angry
+samplenew_00066252 brow lowerer, lower lip depressor, insecure, does not speak with any of the emotions listed
+samplenew_00043406 tense lips stretched, speaks in a normal tone
+samplenew_00048795 angry
+samplenew_00032707 lower eyebrows, slight drooping of the mouth, does not speak with any of the emotions listed
+samplenew_00062836 brow lowerer, eyes widened, tightening of eyelids, speaks with a neutral tone
+samplenew_00043025 sad
+samplenew_00016269 sad
+samplenew_00009631 happy
+samplenew_00049205 smile, pleasure, does not speak with any of the emotions listed
+samplenew_00055419 angry
+samplenew_00044124 happy
+samplenew_00058973 brow lowerer, raise upper eyelids, tightening of eyelids, lips forming an upward curve, speaks in a neutral tone
+samplenew_00005478 angry
+samplenew_00053895 angry
+samplenew_00027324 tightening of eyelids, does not speak with any of the emotions listed
+samplenew_00035149 sad
+samplenew_00030434 angry
+samplenew_00046905 lower eyebrows, eyes widened, tighten the lips,purse the lips, curl the lips upwards, lift the chin, speaks in a fearful and angry tone
+samplenew_00004129 smile, pleasure, lip corner puller, indentation when smiling, speaks in a happy voice
+samplenew_00037004 angry
+samplenew_00058734 lower eyebrows, insecure, and his tone sounds negative
+samplenew_00036236 angry
+samplenew_00024004 angry
+samplenew_00065790 sad
+sample_00003811 sad
+samplenew_00049366 nasal flaring, speaks in a neutral tone
+samplenew_00071137 brow lowerer, slight drooping of the mouth, speaks with a fearful emotion
+samplenew_00032371 brow lowerer, upper lip lift, and her tone sounds negative
+samplenew_00015204 angry
+samplenew_00018781 brow lowerer, tightening of eyelids, press the lips together, upper lip raiser, lips arching, and her tone sounds negative
+samplenew_00001743 angry
+samplenew_00027139 brow lowerer, upper lip raiser, and his tone sounds natural
+samplenew_00012072 downturned corners of the mouth, speaks in a fearful tone
+samplenew_00034691 angry
+samplenew_00029525 lower eyebrows, speaks in a neutral tone
+sample_00006241 upper lid raiser, speaks with a fearful voice
+samplenew_00033646 angry
+samplenew_00061363 brow lowerer, and his tone sounds negative
+samplenew_00017012 lower the brow, frown, and her tone sounds negative
+sample_00004310 eyes narrowing, dimpler, and her tone sounds negative
+samplenew_00062606 sad
+samplenew_00061523 happy
+samplenew_00045023 nasal flaring, speaks in a fearful tone
+samplenew_00064401 happy
+samplenew_00002334 sad
+samplenew_00038095 angry
+samplenew_00029019 downturned lips, does not speak with any of the emotions listed
+samplenew_00002109 brow lowerer, head lifting wrinkles, slight frown, speaks in a fearful tone
+samplenew_00041511 frowns furrowed, does not speak with any of the emotions listed
+samplenew_00007159 tightening of eyelids, chin raiser, does not speak with any of the emotions listed
+samplenew_00031019 angry
+samplenew_00046386 angry
+sample_00004549 frowns furrowed, it sounds like this person is angry in the audio
+samplenew_00045162 lower the brow, lift eyebrows, downturned lips, speaks with a fearful emotion
+samplenew_00053447 brow lowerer, speaks in a fearful tone
+samplenew_00067126 slight decrease in eyebrows, grinning, dimpler, and his tone sounds positive
+samplenew_00029570 angry
+samplenew_00021432 lower the brow, tightening of eyelids, tighten the lips,purse the lips, does not speak with any of the emotions listed
+samplenew_00040188 frowns furrowed, lid tightener, curl the lips upwards, chin held high, does not speak with any of the emotions listed
+samplenew_00063954 slight decrease in eyebrows, lip corner puller, speaks in a cheerful tone
+samplenew_00067875 show teeth, and his tone sounds negative
+samplenew_00069677 frowns furrowed, speaks with a fearful tone
+samplenew_00024099 happy
+samplenew_00047649 show teeth, hollow on the face when smiling, does not speak with any of the emotions listed
+samplenew_00020605 sad
+samplenew_00067066 cheek dimple, and her tone sounds positive
+samplenew_00064690 brow lowerer, lip tightener, lips apart showing teeth, does not speak with any of the emotions listed
+samplenew_00055293 angry
+samplenew_00003894 sad
+samplenew_00015202 angry
+samplenew_00022469 happy
+samplenew_00023891 angry
+samplenew_00038305 toothy smile, indentation when smiling, and her tone sounds natural
+samplenew_00051164 angry
+samplenew_00054460 angry
+samplenew_00042825 eyes widened, speaks with a fearful tone
+samplenew_00069098 frowns furrowed, speaks in a normal tone
+samplenew_00000557 angry
+samplenew_00038794 happy
+samplenew_00057912 lower eyebrows, lips apart showing teeth, lift the chin, and his tone sounds natural
+samplenew_00061296 slight decrease in eyebrows, lip corner puller, indentation when smiling, speaks in a neutral tone
+samplenew_00002326 sad
+samplenew_00041139 angry
+samplenew_00052123 lower eyebrows, and his tone sounds negative
+samplenew_00034531 frown, speaks in a fearful manner
+samplenew_00047425 sad
+samplenew_00003285 lower eyebrows, and his tone sounds negative
+samplenew_00004858 angry
+samplenew_00066094 cheek raiser, and his tone sounds natural
+samplenew_00011495 angry
+samplenew_00003563 slightly lower eyebrows, speaks in a happy voice
+samplenew_00031327 sad
+samplenew_00002165 angry
+samplenew_00035030 sad
+samplenew_00016905 lower the brow, does not speak with any of the emotions listed
+samplenew_00035656 sad
+samplenew_00062017 happy
+samplenew_00052517 brow lowerer, speaks with a fearful tone
+samplenew_00050948 sad
+samplenew_00037777 lip corner puller, dimpler, speaks in a normal tone
+samplenew_00053067 sad
+samplenew_00016255 happy
+samplenew_00060038 eyes widened, and her tone sounds natural
+samplenew_00015785 sad
+samplenew_00053928 angry
+samplenew_00036509 lower eyebrows, and his tone sounds natural
+samplenew_00052309 angry
+samplenew_00034027 toothy smile, cheek dimple, speaks in a normal tone
+samplenew_00019060 angry
+samplenew_00052918 lower eyebrows, does not speak with any of the emotions listed
+samplenew_00069373 angry
+samplenew_00031106 brow lowerer, lips apart showing teeth, does not speak with any of the emotions listed
+samplenew_00007011 sad
+samplenew_00050488 angry
+samplenew_00014919 lower the brow, and his tone sounds negative
+samplenew_00001745 brow lowerer, chin raiser, does not speak with any of the emotions listed
+samplenew_00016907 sad
+samplenew_00064844 happy
+samplenew_00030920 big smile, indentation when smiling, speaks with a fearful emotion
+samplenew_00051620 worried
+samplenew_00039374 angry
+samplenew_00017359 frowns furrowed, frown, speaks with a fearful tone
+samplenew_00065287 lower the brow, upper lid raiser, lid tightener, and her tone sounds negative
+samplenew_00065971 chin held high, does not speak with any of the emotions listed
+samplenew_00050901 sad
+samplenew_00043992 sad
+samplenew_00053507 lower eyebrows, lift upper eyelids, upper lip lift, speaks in a neutral tone
+samplenew_00016348 upper lid raiser, and his tone sounds negative
+samplenew_00032710 lower the brow, eyes widened, chin held high, does not speak with any of the emotions listed
+samplenew_00067627 happy
+samplenew_00013898 frowns furrowed, slight frown, speaks with a cheerful voice
+samplenew_00012725 sad
+samplenew_00057554 hollow on the face when smiling, does not speak with any of the emotions listed
+samplenew_00002486 toothy smile, does not speak with any of the emotions listed
+samplenew_00052084 angry
+samplenew_00044974 lower eyebrows, speaks in a cheerful voice
+samplenew_00052799 happy
+samplenew_00030811 smile, pleasure, show teeth, cheek dimple, and her tone sounds negative
+samplenew_00067513 angry
+samplenew_00042583 lower eyebrows, lid tightener, upper lip raiser, and her tone sounds natural
+samplenew_00041096 happy
+samplenew_00029740 angry
+samplenew_00053688 brow lowerer, upper lid raiser, lips forming an upward curve, does not speak with any of the emotions listed
+samplenew_00018521 happy
+samplenew_00046600 happy
+samplenew_00018490 frowns furrowed, lip corner depressor, speaks with a fearful emotion
+samplenew_00014707 slightly lower eyebrows, toothy smile, dimpler, speaks with a cheerful voice
+samplenew_00043256 brow lowerer, speaks with a fearful tone
+samplenew_00054197 lower eyebrows, slight frown, speaks in a normal tone
+samplenew_00040222 angry
+samplenew_00047250 brow lowerer, and her tone sounds negative
+sample_00005205 surprise
+samplenew_00054333 brow lowerer, downward mouth curvature, and her tone sounds natural
+samplenew_00063721 angry
+samplenew_00068716 frowns furrowed, and her tone sounds negative
+samplenew_00064669 angry
+samplenew_00059567 angry
+samplenew_00002969 lower the brow, speaks with a fearful tone
+sample_00004628 angry
+samplenew_00040220 brow lowerer, tightening of eyelids, and his tone sounds negative
+sample_00003179 happy
+samplenew_00040717 worried
+samplenew_00003516 anxiously stretched lips, speaks with a fearful emotion
+samplenew_00026916 angry
+samplenew_00037105 sad
+samplenew_00062439 happy
+samplenew_00004560 grinning, speaks in a fearful and sad tone
+samplenew_00031062 worried
+samplenew_00000361 angry
+samplenew_00019325 chin raiser, and his tone sounds natural
+samplenew_00031710 lower eyebrows, and his tone sounds positive
+samplenew_00057691 happy
+samplenew_00019128 angry
+samplenew_00043713 brow lowerer, upper lip raiser, does not speak with any of the emotions listed
+samplenew_00060679 worried
+samplenew_00065297 sad
+samplenew_00007317 sad
+sample_00002467 slight decrease in eyebrows, big smile, indentation when smiling, speaks in a normal tone
+samplenew_00054191 angry
+samplenew_00062147 angry
+samplenew_00019933 worried
+samplenew_00041140 frowns furrowed, does not speak with any of the emotions listed
+samplenew_00019157 lip corner puller, does not speak with any of the emotions listed
+samplenew_00045177 happy
+samplenew_00057908 sad
+samplenew_00053991 lower eyebrows, facial tightness, speaks with a fearful tone
+samplenew_00014654 draw in lips, nostrils enlarge, and his tone sounds natural
+samplenew_00037854 lip corner puller, indentation when smiling, does not speak with any of the emotions listed
+samplenew_00033308 angry
+samplenew_00010708 happy
+samplenew_00026508 angry
+samplenew_00038877 frowns furrowed, speaks in a normal tone
+sample_00003902 brow lowerer, insecure, it sounds like this person is angry in the audio
+samplenew_00036396 angry
+samplenew_00067225 angry
+samplenew_00056363 frowns furrowed, speaks with a fearful emotion
+samplenew_00017060 indentation when smiling, speaks in a normal tone
+samplenew_00042231 angry
+samplenew_00053441 happy
+samplenew_00009651 brow lowerer, does not speak with any of the emotions listed
+samplenew_00051872 lower the brow, speaks with a fearful emotion
+sample_00000761 tense lips stretched, and her tone sounds negative
+samplenew_00057869 frowns furrowed, lips apart showing teeth, does not speak with any of the emotions listed
+samplenew_00024401 upper lid raiser, tighten the lips,purse the lips, upper lip raiser, and his tone sounds natural
+samplenew_00015630 angry
+samplenew_00022034 sad
+samplenew_00026525 lower the brow, tightening of eyelids, curl the lips upwards, speaks in a fearful tone
+samplenew_00068614 frowns furrowed, tighten the lips,purse the lips, upper lip raiser, speaks in a neutral tone
+samplenew_00022119 eyes widened, upper lip lift, speaks in a normal tone
+samplenew_00043076 pupil enlargement, lid tightener, tighten the lips,purse the lips, chin held high, in a cheerful
+samplenew_00005204 lower the brow, speaks with a fearful tone
+samplenew_00064518 angry
+sample_00004377 angry
+samplenew_00000095 upper lip lift, lift the chin, speaks in a fearful tone
+samplenew_00019599 raise upper eyelids, wide-mouthed, and her tone sounds negative
+samplenew_00008361 angry
+samplenew_00050894 brow lowerer, upper lip lift, and his tone sounds natural
+sample_00002617 angry
+samplenew_00033103 sad
+samplenew_00060090 lower eyebrows, head lifting wrinkles, insecure, speaks with a cheerful voice
+samplenew_00001609 frowns furrowed, facial tightness, chin raiser, speaks with a neutral tone
+samplenew_00045147 lower eyebrows, speaks in a normal tone
+samplenew_00004755 frowns furrowed, and his tone sounds negative
+samplenew_00037305 angry
+samplenew_00025014 lower eyebrows, downward mouth curvature, downturned lips, speaks with a neutral tone
+samplenew_00034747 smile, pleasure, grinning, and her tone sounds negative
+samplenew_00045437 lower the brow, and his tone sounds natural
+samplenew_00005205 brow lowerer, lift eyebrows, slight frown, and her tone sounds negative
+samplenew_00029877 outer brow arch, pupil enlargement, wide-mouthed, speaks in a normal tone
+samplenew_00042076 lower eyebrows, curl the lips upwards, and his tone sounds natural
+samplenew_00057217 lower the brow, facial tightness, does not speak with any of the emotions listed
+samplenew_00009243 angry
+samplenew_00060164 angry
+samplenew_00021066 lower eyebrows, and his tone sounds natural
+samplenew_00040464 frowns furrowed, downturned lips, and her tone sounds negative
+samplenew_00002288 lower the brow, pupil enlargement, facial tightness, tighten the lips,purse the lips, upper lip lift, speaks in a fearful tone
+samplenew_00025382 sad
+samplenew_00061577 happy
+samplenew_00000850 lower the brow, lower lip depressor, speaks in a fearful tone
+samplenew_00064766 frowns furrowed, speaks with a neutral tone
+samplenew_00060532 happy
+samplenew_00051040 lower the brow, lift upper eyelids, curl the lips upwards, and his tone sounds natural
+samplenew_00017667 sad
+samplenew_00012474 angry
+samplenew_00054669 angry
+sample_00005144 brow lowerer, eyes widened, facial tightness, curl the lips upwards, speaks with a neutral tone
+samplenew_00048053 brow lowerer, curl the lips upwards, lips forming an upward curve, speaks in a fearful and angry tone
+samplenew_00000950 slightly lower eyebrows, cheek dimple, and her tone sounds positive
+samplenew_00068968 lower eyebrows, pupil enlargement, does not speak with any of the emotions listed
+sample_00000307 lower eyebrows, lift upper eyelids, speaks with a fearful tone
+samplenew_00025923 sad
+samplenew_00049581 angry
+samplenew_00055951 sad
+samplenew_00061302 angry
+samplenew_00057499 frowns furrowed, tightening of eyelids, chin raiser, speaks in a normal tone
+samplenew_00045905 slight drooping of the mouth, speaks in a normal tone
+samplenew_00067668 happy
+samplenew_00059322 lower the brow, facial tightness, press the lips together, chin raiser, does not speak with any of the emotions listed
+samplenew_00012990 angry
+samplenew_00034805 angry
+samplenew_00026543 sad
+samplenew_00009910 frowns furrowed, speaks in a angry tone
+samplenew_00021893 sad
+samplenew_00052543 angry
+samplenew_00042162 tighten the lips,purse the lips, speaks in a normal tone
+samplenew_00042147 happy
+samplenew_00017058 angry
+samplenew_00037279 happy
+samplenew_00054652 lower eyebrows, does not speak with any of the emotions listed
+samplenew_00034447 lower eyebrows, speaks in a fearful voice
+samplenew_00025240 sad
+samplenew_00032560 sad
+samplenew_00012207 angry
+samplenew_00028619 sad
+samplenew_00035186 cheek raiser, lip corner puller, hollow on the face when smiling, speaks in a happy voice
+samplenew_00018964 sad
+samplenew_00057099 sad
+samplenew_00062408 lower the brow, downward mouth curvature, insecure, and his tone sounds natural
+samplenew_00048776 angry
+samplenew_00057337 sad
+samplenew_00022282 lower the brow, and his tone sounds negative
+samplenew_00004142 angry
+samplenew_00059416 angry
+samplenew_00008837 downturned corners of the mouth, insecure, speaks in a normal tone
+samplenew_00061277 slightly lower eyebrows, cheek dimple, and his tone sounds positive
+samplenew_00047088 upper lip raiser, speaks in a fearful manner
+sample_00001505 worried
+samplenew_00051811 frowns furrowed, speaks in a normal tone
+samplenew_00062879 angry
+samplenew_00058382 dimpler, speaks in a neutral tone
+samplenew_00049139 angry
+samplenew_00066637 lower eyebrows, lid tightener, curl the lips upwards, and his tone sounds natural
+samplenew_00022537 sad
+samplenew_00025886 lower the brow, lid tightener, tighten the lips,purse the lips, speaks with a fearful tone
+samplenew_00054347 sad
+samplenew_00013236 lower eyebrows, lid tightener, curl the lips upwards, and his tone sounds negative
+samplenew_00045014 angry
+samplenew_00066688 lower the brow, lip corner depressor, insecure, speaks in a normal tone
+samplenew_00006468 angry
+samplenew_00031133 angry
+samplenew_00001443 lower the brow, downturned lips, and her tone sounds natural
+samplenew_00014943 angry
+samplenew_00043835 lower eyebrows, eyes widened, speaks in a normal tone
+samplenew_00056890 lower eyebrows, curl the lips upwards, speaks with a cheerful voice
+samplenew_00053981 brow lowerer, eyebrow raised, speaks with a fearful tone
+samplenew_00035948 lift upper eyelids, and her tone sounds positive
+samplenew_00010414 angry
+samplenew_00061798 sad
+samplenew_00042394 brow lowerer, eyebrow raised, and his tone sounds negative
+samplenew_00007424 angry
+samplenew_00010793 lower the brow, slight frown, speaks in a normal tone
+samplenew_00020373 raise upper eyelids, lid tightener, does not speak with any of the emotions listed
+samplenew_00030974 frowns furrowed, tightening of eyelids, press the lips together, lips forming an upward curve, and his tone sounds negative
+samplenew_00009057 worried
+samplenew_00064571 eyes narrowing, lip corner puller, dimpler, and his tone sounds angry
+samplenew_00037945 angry
+samplenew_00070368 angry
+samplenew_00053113 happy
+samplenew_00044537 frowns furrowed, lips arching, and her tone sounds natural
+samplenew_00057947 sad
+samplenew_00039514 angry
+samplenew_00025391 eyes widened, and his tone sounds negative
+samplenew_00023364 lower eyebrows, lid tightener, tighten the lips,purse the lips, lips apart showing teeth, chin raiser, does not speak with any of the emotions listed
+samplenew_00059553 angry
+samplenew_00031628 lift the chin, and his tone sounds negative
+samplenew_00046850 lower eyebrows, inner brow raiser, downward mouth curvature, speaks in a fearful and fearful tone
+samplenew_00035725 frowns furrowed, lips apart showing teeth, does not speak with any of the emotions listed
+samplenew_00040671 angry
+samplenew_00044473 brow lowerer, lid tightener, upper lip raiser, speaks with a fearful emotion
+samplenew_00069085 sad
+samplenew_00043515 sad
+samplenew_00057806 angry
+samplenew_00016277 happy
+samplenew_00063075 sad
+sample_00003926 angry
+samplenew_00045800 dimpler, speaks in a fearful and sad tone
+samplenew_00038770 angry
+samplenew_00003422 angry
+samplenew_00036723 angry
+samplenew_00056469 angry
+samplenew_00032099 lid tightener, upper lip raiser, chin held high, speaks in a normal tone
+samplenew_00037094 lower eyebrows, facial tightness, upper lip raiser, speaks in a normal tone
+samplenew_00009622 angry
+samplenew_00028878 upper lid raiser, lips forming an upward curve, and her tone sounds negative
+samplenew_00017116 happy
+samplenew_00066262 sad
+samplenew_00020850 sad
+samplenew_00049597 lower eyebrows, inner brow raiser, speaks with a neutral tone
+samplenew_00051982 angry
+samplenew_00005461 open mouth wide, and her tone sounds natural
+samplenew_00006759 cheek raiser, lip corner puller, cheek dimple, speaks in a normal tone
+samplenew_00053736 sad
+samplenew_00059307 angry
+samplenew_00026348 angry
+samplenew_00068075 smile, pleasure, big smile, indentation when smiling, speaks in a normal tone
+samplenew_00049573 eyes narrowing, and his tone sounds natural
+samplenew_00036473 lower the brow, does not speak with any of the emotions listed
+samplenew_00009498 angry
+samplenew_00026511 surprise
+samplenew_00006297 angry
+samplenew_00038864 brow lowerer, speaks with a fearful emotion
+samplenew_00049913 eyes narrowing, speaks with a fearful tone
+samplenew_00030884 lower eyebrows, lower lip depressor, downturned lips, speaks in a normal tone
+sample_00000828 angry
+samplenew_00032664 sad
+samplenew_00030587 brow lowerer, speaks with a cheerful voice
+samplenew_00037456 sad
+samplenew_00032423 happy
+samplenew_00036157 angry
+samplenew_00027984 eyes narrowing, toothy smile, hollow on the face when smiling, and her tone sounds natural
+samplenew_00035162 sad
+samplenew_00063378 angry
+samplenew_00047691 happy
+samplenew_00012429 lower the brow, speaks in a neutral tone
+samplenew_00006499 lower the brow, curl the lips upwards, and his tone sounds negative
+samplenew_00009207 sad
+samplenew_00066936 sad
+samplenew_00004441 eyes narrowing, show teeth, and her tone sounds negative
+samplenew_00007387 happy
+samplenew_00016065 sad
+samplenew_00033836 sad
+samplenew_00056137 angry
+samplenew_00069090 lower eyebrows, eyes widened, speaks in a fearful tone
+samplenew_00007346 lid tightener, does not speak with any of the emotions listed
+samplenew_00045397 sad
+samplenew_00019078 angry
+samplenew_00044660 lower eyebrows, does not speak with any of the emotions listed
+samplenew_00058359 sad
+samplenew_00011551 happy
+samplenew_00045796 sad
+samplenew_00057659 angry
+samplenew_00021508 brow lowerer, slight drooping of the mouth, and his tone sounds negative
+samplenew_00000040 smile, pleasure, hollow on the face when smiling, speaks in a neutral tone
+samplenew_00041853 lower eyebrows, facial tightness, and his tone sounds negative
+samplenew_00037330 angry
+samplenew_00061496 lip corner puller, hollow on the face when smiling, does not speak with any of the emotions listed
+samplenew_00030992 pupil enlargement, jaw drop, speaks in a fearful tone
+samplenew_00044060 sad
+samplenew_00063074 angry
+samplenew_00011211 happy
+samplenew_00019832 upper lid raiser, and her tone sounds negative
+samplenew_00061922 frowns furrowed, lip tightener, and his tone sounds natural
+samplenew_00051012 frowns furrowed, speaks with a fearful emotion
+samplenew_00002332 surprise
+samplenew_00016965 sad
+samplenew_00058596 lips arching, and his tone sounds negative
+samplenew_00069093 angry
+samplenew_00056943 worried
+samplenew_00014551 cheek raiser, big smile, and his tone sounds natural
+samplenew_00002894 lower the brow, lid tightener, does not speak with any of the emotions listed
+samplenew_00062633 tightening of eyelids, lips arching, does not speak with any of the emotions listed
+samplenew_00032635 surprise
+samplenew_00059504 brow lowerer, insecure, speaks in a fearful and uncertain tone
+samplenew_00015574 angry
+samplenew_00054734 brow lowerer, lift eyebrows, speaks with a fearful tone
+samplenew_00067711 angry
+samplenew_00008894 lips elongated, and her tone sounds negative
+samplenew_00030484 lower eyebrows, facial tightness, curl the lips upwards, and her tone sounds negative
+samplenew_00044277 angry
+samplenew_00026066 happy
+samplenew_00068811 happy
+samplenew_00030875 lower the brow, tightening of eyelids, lips forming an upward curve, does not speak with any of the emotions listed
+samplenew_00020390 lower eyebrows, does not speak with any of the emotions listed
+samplenew_00001106 angry
+samplenew_00005410 sad
+samplenew_00049971 sad
+samplenew_00015044 happy
+samplenew_00013386 happy
+samplenew_00009214 smile, pleasure, indentation when smiling, speaks in a normal tone
+samplenew_00065308 lift the chin, does not speak with any of the emotions listed
+samplenew_00069462 sad
+samplenew_00018870 sad
+samplenew_00009721 angry
+samplenew_00057510 angry
+samplenew_00023623 happy
+samplenew_00023989 lower eyebrows, pupil enlargement, chin raiser, and his tone sounds positive
+samplenew_00003493 frowns furrowed, and her tone sounds negative
+samplenew_00018839 sad
+samplenew_00044194 sad
+samplenew_00024695 smile, pleasure, speaks in a normal tone
+samplenew_00040558 brow lowerer, eyes widened, curl the lips upwards, lift the chin, speaks in a normal tone
+samplenew_00055556 angry
+sample_00000643 brow lowerer, lips apart showing teeth, lips arching, speaks with a fearful tone
+samplenew_00062409 lower eyebrows, lips arching, speaks in a normal tone
+samplenew_00037100 brow lowerer, tightening of eyelids, lips apart showing teeth, lips forming an upward curve, and his tone sounds angry
+samplenew_00039345 frowns furrowed, speaks with a fearful tone
+samplenew_00048682 lower eyebrows, does not speak with any of the emotions listed
+samplenew_00032094 angry
+samplenew_00051977 lower the brow, tighten the lips,purse the lips, and his tone sounds negative
+samplenew_00007543 brow lowerer, speaks with a fearful emotion
+samplenew_00016656 angry
+samplenew_00056532 angry
+samplenew_00028454 angry
+samplenew_00007383 sad
+samplenew_00058995 sad
+samplenew_00041279 sad
+samplenew_00019502 angry
+samplenew_00071123 lower the brow, speaks with a fearful tone
+samplenew_00030933 angry
+samplenew_00067612 angry
+samplenew_00064902 angry
+samplenew_00047508 happy
+samplenew_00056056 angry
+samplenew_00013863 lower eyebrows, insecure, and his tone sounds negative
+samplenew_00038113 angry
+samplenew_00052682 lower the brow, speaks in a normal tone
+samplenew_00067954 lower eyebrows, and his tone sounds negative
+samplenew_00011184 happy
+sample_00003234 happy
+samplenew_00006989 angry
+samplenew_00023563 lip stretcher, and his tone sounds natural
+samplenew_00011464 angry
+samplenew_00020247 angry
+samplenew_00015490 angry
+samplenew_00059442 angry
+samplenew_00010902 brow lowerer, lift upper eyelids, upper lip raiser, and his tone sounds angry
+samplenew_00011451 brow lowerer, upper lid raiser, and her tone sounds angry
+samplenew_00027346 insecure, speaks in a normal tone
+samplenew_00012277 smile, pleasure, big smile, speaks with a happy voice
+samplenew_00000528 brow lowerer, lips apart showing teeth, lips arching, speaks with a neutral tone
+samplenew_00028926 sad
+samplenew_00068009 angry
+samplenew_00043030 lower the brow, does not speak with any of the emotions listed
+samplenew_00047343 upper lid raiser, lip tightener, chin held high, does not speak with any of the emotions listed
+samplenew_00063909 frowns furrowed, pupil enlargement, lips arching, speaks in a normal tone
+samplenew_00016511 lower the brow, upper lid raiser, lift the chin, speaks in a fearful tone
+samplenew_00056090 sad
+samplenew_00022149 cheek dimple, and his tone sounds negative
+samplenew_00061334 angry
+samplenew_00025397 facial tightness, curl the lips upwards, speaks with a fearful tone
+samplenew_00070100 angry
+samplenew_00062355 dimpler, speaks in a cheerful tone
+samplenew_00069902 angry
+samplenew_00034724 angry
+samplenew_00003424 brow lowerer, and her tone sounds natural
+samplenew_00057505 angry
+samplenew_00052439 angry
+samplenew_00063831 angry
+samplenew_00000705 brow lowerer, insecure, does not speak with any of the emotions listed
+samplenew_00058165 sad
+samplenew_00015023 smile, pleasure, big smile, indentation when smiling, and her tone sounds natural
+samplenew_00038714 happy
+samplenew_00002974 angry
+samplenew_00065989 lower the brow, speaks in a fearful emotion
+samplenew_00039505 lower eyebrows, speaks in a normal tone
+samplenew_00013180 lower eyebrows, inner brow raiser, and his tone sounds natural
+samplenew_00047614 frowns furrowed, insecure, does not speak with any of the emotions listed
+samplenew_00014290 angry
+samplenew_00039907 sad
+samplenew_00042360 inner brow raiser, elevate outer brow, open mouth wide, speaks in a fearful tone
+samplenew_00058769 tense lips stretched, does not speak with any of the emotions listed
+samplenew_00003039 lower the brow, pupil enlargement, speaks in a neutral tone
+samplenew_00063310 worried
+samplenew_00060064 angry
+samplenew_00069442 happy
+samplenew_00066932 happy
+samplenew_00023683 frowns furrowed, upper lip lift, speaks in a normal tone
+samplenew_00055356 lower the brow, frown, speaks in a normal tone
+samplenew_00020533 sad
+samplenew_00045186 brow lowerer, curl the lips upwards, speaks in a normal tone
+samplenew_00018739 happy
+samplenew_00016460 brow lowerer, speaks with a neutral tone
+samplenew_00058732 angry
+samplenew_00038404 lower the brow, pupil enlargement, does not speak with any of the emotions listed
+samplenew_00017969 lower eyebrows, speaks with a fearful voice
+samplenew_00044193 frowns furrowed, upper lip lift, and his tone sounds positive
+samplenew_00005491 sad
+samplenew_00038141 brow lowerer, speaks in a neutral tone
+samplenew_00020397 happy
+samplenew_00047163 angry
+samplenew_00006121 surprise
+samplenew_00057043 worried
+samplenew_00022327 angry
+samplenew_00004705 lower eyebrows, raise upper eyelids, lips forming an upward curve, speaks with a fearful tone
+samplenew_00027426 happy
+samplenew_00048328 angry
+samplenew_00047605 angry
+samplenew_00061630 happy
+samplenew_00056304 angry
+samplenew_00020253 lower the brow, speaks with a cheerful voice
+samplenew_00069925 sad
+samplenew_00016727 dimpler, speaks with a fearful emotion
+samplenew_00054590 frowns furrowed, facial tightness, and his tone sounds natural
+samplenew_00047438 happy
+samplenew_00042167 cheek dimple, speaks in a fearful tone
+samplenew_00012509 upper lip lift, speaks with a fearful tone
+samplenew_00050359 angry
+samplenew_00035847 slight decrease in eyebrows, speaks in a normal tone
+samplenew_00007180 frowns furrowed, pupil enlargement, does not speak with any of the emotions listed
+samplenew_00030085 angry
+samplenew_00042995 frowns furrowed, and her tone sounds negative
+samplenew_00006141 angry
+samplenew_00011912 sad
+samplenew_00067690 angry
+samplenew_00038362 sad
+samplenew_00015176 lower eyebrows, speaks with a fearful tone
+samplenew_00026898 sad
+samplenew_00034437 brow lowerer, curl the lips upwards, does not speak with any of the emotions listed
+samplenew_00045638 lower the brow, does not speak with any of the emotions listed
+samplenew_00009334 lower the brow, facial tightness, curl the lips upwards, lips arching, and his tone sounds negative
+samplenew_00011111 angry
+samplenew_00009414 angry
+samplenew_00034128 happy
+samplenew_00055102 eyebrow raised, elevate outer brow, upper lid raiser, and her tone sounds natural
+sample_00006855 angry
+samplenew_00054984 happy
+samplenew_00040378 frowns furrowed, head lifting wrinkles, insecure, speaks in a normal tone
+samplenew_00022030 eyes narrowing, show teeth, indentation when smiling, speaks in a normal tone
+samplenew_00028904 lower eyebrows, raise upper eyelids, lift the chin, does not speak with any of the emotions listed
+samplenew_00019397 frowns furrowed, and his tone sounds positive
+samplenew_00003644 cheek raiser, lip corner puller, cheek dimple, speaks in a fearful tone
+samplenew_00068298 lower the brow, lips apart showing teeth, lift the chin, speaks in a neutral tone
+samplenew_00066784 brow lowerer, lid tightener, upper lip lift, and her tone sounds negative
+sample_00000320 surprise
+samplenew_00004265 dimpler, speaks in a normal tone
+samplenew_00014203 sad
+samplenew_00071062 worried
+samplenew_00009301 lower the brow, speaks in a fearful tone
+samplenew_00046711 angry
+samplenew_00025176 lower eyebrows, speaks in a neutral tone
+samplenew_00009547 angry
+samplenew_00029022 sad
+samplenew_00028450 frowns furrowed, eyes widened, facial tightness, speaks in a neutral tone
+samplenew_00039901 frowns furrowed, lip tightener, and his tone sounds natural
+samplenew_00068601 frowns furrowed, chin held high, does not speak with any of the emotions listed
+samplenew_00060647 brow lowerer, speaks in a normal tone
+samplenew_00029538 brow lowerer, speaks in a neutral tone
+samplenew_00033494 sad
+samplenew_00058775 sad
+samplenew_00038810 frowns furrowed, slight frown, speaks in a neutral tone
+samplenew_00049880 angry
+sample_00006166 angry
+samplenew_00029416 sad
+sample_00003375 angry
+samplenew_00016538 brow lowerer, facial tightness, speaks in a normal tone
+samplenew_00054575 upper lip raiser, and her tone sounds positive
+samplenew_00009417 angry
+samplenew_00056380 happy
+samplenew_00019262 angry
+samplenew_00046446 brow lowerer, eyebrow raised, slight drooping of the mouth, speaks in a normal tone
+samplenew_00050104 eyes widened, does not speak with any of the emotions listed
+samplenew_00055865 lower eyebrows, speaks in a fearful tone
+samplenew_00066286 sad
+samplenew_00066070 frowns furrowed, chin raiser, and his tone sounds negative
+samplenew_00055375 worried
+samplenew_00036842 slight frown, does not speak with any of the emotions listed
+samplenew_00050106 slightly lower eyebrows, toothy smile, and her tone sounds natural
+samplenew_00015609 lower the brow, lid tightener, lips forming an upward curve, speaks in a fearful tone
+samplenew_00053456 lower the brow, slight frown, speaks with a fearful emotion
+samplenew_00054985 angry
+sample_00002179 angry
+samplenew_00026617 happy
+samplenew_00031684 sad
+samplenew_00064204 lower eyebrows, does not speak with any of the emotions listed
+samplenew_00034315 sad
+samplenew_00014951 sad
+samplenew_00022955 brow lowerer, speaks in a fearful and fearful tone
+samplenew_00067515 nostrils enlarge, does not speak with any of the emotions listed
+samplenew_00061683 tense lips stretched, and her tone sounds negative
+samplenew_00050745 sad
+sample_00001053 frowns furrowed, lid tightener, speaks with a fearful tone
+samplenew_00020403 sad
+samplenew_00034526 lower eyebrows, upper lip lift, chin held high, and his tone sounds negative
+samplenew_00020679 happy
+samplenew_00052196 smile, pleasure, grinning, indentation when smiling, and his tone sounds negative
+samplenew_00054458 frowns furrowed, speaks in a neutral tone
+samplenew_00058316 sad
+samplenew_00011146 show teeth, cheek dimple, speaks in a normal tone
+samplenew_00013814 angry
+samplenew_00059829 angry
+samplenew_00052167 angry
+samplenew_00035950 sad
+samplenew_00001174 frowns furrowed, pupil enlargement, lid tightener, upper lip raiser, speaks with a fearful voice
+samplenew_00052068 brow lowerer, upper lip lift, speaks in a fearful voice
+samplenew_00014524 frowns furrowed, insecure, and his tone sounds fearful
+samplenew_00059010 angry
+samplenew_00053709 happy
+sample_00005027 angry
+samplenew_00053069 sad
+samplenew_00045412 nasal flaring, and his tone sounds natural
+samplenew_00058424 angry
+samplenew_00013621 brow lowerer, and her tone sounds negative
+samplenew_00028435 frowns furrowed, upper lip raiser, lips forming an upward curve, and his tone sounds negative
+samplenew_00051312 frowns furrowed, and his tone sounds natural
+samplenew_00064005 brow lowerer, speaks in a fearful voice
+samplenew_00003681 angry
+samplenew_00045972 angry
+samplenew_00067165 angry
+samplenew_00058489 angry
+samplenew_00050792 sad
+samplenew_00031197 brow lowerer, lid tightener, and her tone sounds negative
+samplenew_00063259 downturned lips, speaks in a fearful and angry tone
+samplenew_00055228 sad
+samplenew_00055458 sad
+samplenew_00029646 frowns furrowed, speaks in a normal tone
+samplenew_00009242 brow lowerer, does not speak with any of the emotions listed
+samplenew_00028222 sad
+samplenew_00053608 sad
+samplenew_00060778 angry
+samplenew_00032250 eyes narrowing, dimpler, does not speak with any of the emotions listed
+sample_00000840 raise upper eyelids, speaks with a fearful voice
+samplenew_00006515 happy
+samplenew_00070053 sad
+samplenew_00035501 angry
+samplenew_00057521 hollow on the face when smiling, and his tone sounds positive
+samplenew_00041519 lower the brow, tightening of eyelids, upper lip lift, and his tone sounds negative
+samplenew_00015999 sad
+samplenew_00015623 happy
+samplenew_00042580 angry
+samplenew_00020946 slightly lower eyebrows, grinning, speaks with a fearful emotion
+samplenew_00068097 angry
+samplenew_00042433 happy
+samplenew_00061929 sad
+samplenew_00026547 angry
+samplenew_00004815 brow lowerer, and his tone sounds fearful
+samplenew_00059465 angry
+samplenew_00002485 angry
+samplenew_00052182 sad
+samplenew_00024980 sad
+samplenew_00033673 lift eyebrows, does not speak with any of the emotions listed
+samplenew_00046168 big smile, indentation when smiling, does not speak with any of the emotions listed
+samplenew_00014437 upper lip raiser, does not speak with any of the emotions listed
+samplenew_00051918 lips forming an upward curve, and his tone sounds natural
+samplenew_00039311 brow lowerer, and his tone sounds positive
+samplenew_00048821 lower the brow, frown, speaks with a fearful emotion
+samplenew_00055049 frowns furrowed, speaks with a fearful emotion
+samplenew_00040953 angry
+samplenew_00025312 brow lowerer, speaks in a normal tone
+samplenew_00034693 happy
+samplenew_00019690 eyes narrowing, grinning, and his tone sounds negative
+samplenew_00060997 angry
+samplenew_00030961 downward mouth curvature, insecure, does not speak with any of the emotions listed
+samplenew_00048745 lower eyebrows, speaks in a fearful and angry tone
+samplenew_00061403 angry
+samplenew_00044709 sad
+samplenew_00038554 happy
+samplenew_00037287 upper lip raiser, lips forming an upward curve, speaks with a angry tone
+samplenew_00021412 sad
+samplenew_00005145 sad
+samplenew_00032403 toothy smile, indentation when smiling, and his tone sounds positive
+samplenew_00019783 happy
+samplenew_00041715 sad
+samplenew_00036758 angry
+samplenew_00033118 angry
+samplenew_00008526 sad
+samplenew_00047952 angry
+samplenew_00026451 lower eyebrows, chin held high, speaks with a neutral tone
+sample_00006426 frowns furrowed, lower lip depressor, slight drooping of the mouth, speaks with a fearful emotion
+samplenew_00027520 sad
+samplenew_00065198 happy
+samplenew_00036279 sad
+samplenew_00066205 frowns furrowed, speaks in a normal tone
+samplenew_00050642 happy
+samplenew_00034147 angry
+samplenew_00003892 happy
+samplenew_00039373 tense lips stretched, and his tone sounds natural
+samplenew_00065076 lower the brow, lip tightener, speaks in a fearful tone
+samplenew_00036016 angry
+samplenew_00030208 angry
+samplenew_00047031 cheek raiser, dimpler, and her tone sounds natural
+samplenew_00053490 sad
+samplenew_00016652 slightly lower eyebrows, lip corner puller, indentation when smiling, and her tone sounds negative
+samplenew_00059978 angry
+samplenew_00047168 cheek raiser, lip corner puller, speaks with a neutral tone
+samplenew_00025472 happy
+sample_00001273 lower eyebrows, speaks in a neutral tone
+samplenew_00057610 lower eyebrows, and her tone sounds negative
+samplenew_00033696 cheek raiser, speaks in a normal tone
+samplenew_00030538 lower eyebrows, and his tone sounds natural
+samplenew_00046860 lower the brow, eyes widened, lift the chin, speaks in a normal tone
+samplenew_00053965 brow lowerer, downturned lips, speaks with a fearful tone
+samplenew_00055069 dimpler, does not speak with any of the emotions listed
+samplenew_00071055 eyes narrowing, speaks in a normal tone
+samplenew_00061653 smile, pleasure, grinning, and his tone sounds natural
+samplenew_00024031 brow lowerer, speaks with a neutral tone
+samplenew_00003137 happy
+samplenew_00013940 hollow on the face when smiling, speaks in a normal tone
+samplenew_00018823 happy
+samplenew_00022566 brow lowerer, lid tightener, upper lip lift, chin held high, does not speak with any of the emotions listed
+samplenew_00022855 angry
+samplenew_00021939 sad
+samplenew_00039405 upper lip lift, lips forming an upward curve, and his tone sounds positive
+samplenew_00058670 brow lowerer, lip tightener, speaks with a fearful tone
+samplenew_00058023 lower the brow, and his tone sounds negative
+samplenew_00043770 sad
+samplenew_00045915 hollow on the face when smiling, speaks in a normal tone
+samplenew_00007651 lower the brow, and his tone sounds natural
+samplenew_00004245 sad
+samplenew_00028242 lower the brow, downturned lips, speaks in a normal tone
+samplenew_00044206 sad
+samplenew_00024767 angry
+samplenew_00047923 sad
+samplenew_00062872 slight frown, speaks with a fearful emotion
+samplenew_00030608 angry
+samplenew_00049699 angry
+samplenew_00050516 lower eyebrows, curl the lips upwards, and his tone sounds negative
+samplenew_00031600 slightly lower eyebrows, grinning, dimpler, and her tone sounds positive
+samplenew_00050602 sad
+samplenew_00063976 anxiously stretched lips, and her tone sounds negative
+samplenew_00052442 sad
+samplenew_00009871 brow lowerer, lift upper eyelids, and her tone sounds negative
+samplenew_00005285 sad
+samplenew_00061599 sad
+samplenew_00013326 smile, pleasure, toothy smile, and her tone sounds happy
+samplenew_00058448 nostrils enlarge, does not speak with any of the emotions listed
+samplenew_00052897 angry
+samplenew_00011820 happy
+samplenew_00067713 sad
+samplenew_00059646 surprise
+samplenew_00009088 angry
+samplenew_00010216 angry
+samplenew_00059734 lower eyebrows, and his tone sounds angry
+samplenew_00004883 slight decrease in eyebrows, show teeth, dimpler, does not speak with any of the emotions listed
+samplenew_00040945 cheek raiser, show teeth, cheek dimple, does not speak with any of the emotions listed
+samplenew_00050077 sad
+samplenew_00044777 sad
+samplenew_00033281 lower eyebrows, press the lips together, upper lip lift, speaks in a normal tone
+samplenew_00011405 sad
+sample_00001165 lip stretcher, speaks with a fearful tone
+samplenew_00032386 angry
+samplenew_00025907 sad
+samplenew_00000312 happy
+samplenew_00014519 eyes narrowing, show teeth, speaks with a cheerful voice
+samplenew_00028951 lower eyebrows, lip tightener, speaks in a normal tone
+samplenew_00043128 upper lid raiser, and her tone sounds negative
+samplenew_00049369 angry
+samplenew_00048450 brow lowerer, tightening of eyelids, lips forming an upward curve, speaks in a normal tone
+samplenew_00041495 happy
+samplenew_00063236 worried
+samplenew_00010684 cheek raiser, toothy smile, hollow on the face when smiling, speaks in a normal tone
+samplenew_00041208 angry
+samplenew_00051360 happy
+samplenew_00000740 lip corner depressor, slight drooping of the mouth, and her tone sounds negative
+samplenew_00043495 sad
+samplenew_00028850 frowns furrowed, and his tone sounds negative
+sample_00000640 lower eyebrows, lip corner depressor, speaks with a angry tone
+samplenew_00008446 brow lowerer, facial tightness, speaks in a normal tone
+samplenew_00000063 frowns furrowed, speaks in a neutral tone
+samplenew_00068264 brow lowerer, speaks in a fearful voice
+samplenew_00006485 lower the brow, upper lip raiser, and his tone sounds negative
+samplenew_00039093 brow lowerer, lid tightener, upper lip lift, speaks in a neutral tone
+samplenew_00044468 frowns furrowed, and his tone sounds negative
+samplenew_00060547 brow lowerer, curl the lips upwards, lift the chin, speaks in a neutral tone
+samplenew_00033262 downturned lips, speaks in a neutral tone
+samplenew_00051911 sad
+samplenew_00063771 happy
+samplenew_00046803 sad
+samplenew_00022900 lower eyebrows, does not speak with any of the emotions listed
+samplenew_00016580 happy
+samplenew_00034255 sad
+samplenew_00020325 frowns furrowed, lid tightener, does not speak with any of the emotions listed
+sample_00000003 happy
+samplenew_00060264 angry
+samplenew_00021272 angry
+samplenew_00039834 lower eyebrows, eyes widened, facial tightness, chin raiser, speaks in a normal tone
+samplenew_00040785 lower eyebrows, tightening of eyelids, speaks in a fearful tone
+samplenew_00069812 tightening of eyelids, curl the lips upwards, does not speak with any of the emotions listed
+samplenew_00014623 frowns furrowed, lift the chin, speaks in japanese あなたに大好きで、同じで
+samplenew_00060476 brow lowerer, speaks with a fearful emotion
+samplenew_00002751 lower eyebrows, facial tightness, lips apart showing teeth, does not speak with any of the emotions listed
+samplenew_00054973 frowns furrowed, speaks in a fearful and angry tone
+samplenew_00033337 happy
+samplenew_00003131 lower the brow, slight frown, and his tone sounds negative
+samplenew_00020356 slight decrease in eyebrows, indentation when smiling, speaks in a normal tone
+samplenew_00006541 lower the brow, speaks in a fearful manner
+samplenew_00002010 happy
+samplenew_00006530 sad
+samplenew_00013504 happy
+samplenew_00060666 sad
+samplenew_00062127 frowns furrowed, lift the chin, does not speak with any of the emotions listed
+samplenew_00020444 cheek raiser, show teeth, hollow on the face when smiling, does not speak with any of the emotions listed
+samplenew_00003173 cheek raiser, show teeth, dimpler, speaks with a fearful voice
+samplenew_00060619 lift eyebrows, and his tone sounds negative
+samplenew_00012599 lower the brow, lip corner depressor, speaks in a fearful tone
+samplenew_00070769 brow lowerer, does not speak with any of the emotions listed
+samplenew_00029246 lower lip depressor, and his tone sounds negative
+samplenew_00043762 lower eyebrows, tightening of eyelids, curl the lips upwards, and his tone sounds negative
+samplenew_00057944 happy
+samplenew_00017403 angry
+samplenew_00050831 lower the brow, does not speak with any of the emotions listed
+samplenew_00048301 sad
+samplenew_00026384 lower eyebrows, in a normal tone
+samplenew_00063591 pupil enlargement, and his tone sounds negative
+samplenew_00038353 angry
+samplenew_00011186 angry
+samplenew_00022170 downturned lips, speaks in a normal tone
+samplenew_00006674 frowns furrowed, head lifting wrinkles, does not speak with any of the emotions listed
+samplenew_00024118 frowns furrowed, lips apart showing teeth, speaks with a neutral tone
+samplenew_00023524 eyes widened, speaks in a normal tone
+samplenew_00029031 angry
+samplenew_00004909 angry
+samplenew_00070363 happy
+samplenew_00005664 angry
+samplenew_00059337 happy
+samplenew_00014918 sad
+samplenew_00064806 slight decrease in eyebrows, toothy smile, dimpler, and her tone sounds natural
+samplenew_00027286 sad
+samplenew_00024745 sad
+samplenew_00059020 upper lid raiser, speaks with a fearful tone
+samplenew_00041344 sad
+samplenew_00022555 frowns furrowed, speaks in a fearful tone
+samplenew_00053825 frowns furrowed, and his tone sounds positive
+samplenew_00023281 frowns furrowed, lift upper eyelids, facial tightness, chin raiser, speaks in a normal tone
+samplenew_00022458 big smile, dimpler, and her tone sounds negative
+samplenew_00054586 downturned corners of the mouth, speaks in a fearful tone
+samplenew_00067287 lower the brow, inner brow raiser, and her tone sounds negative
+sample_00005932 angry
+samplenew_00050453 lift upper eyelids, and his tone sounds negative
+samplenew_00001392 sad
+samplenew_00061470 angry
+samplenew_00044343 brow lowerer, tightening of eyelids, lips apart showing teeth, and his tone sounds negative
+samplenew_00009628 upper lip lift, does not speak with any of the emotions listed
+samplenew_00044876 slightly lower eyebrows, toothy smile, and her tone sounds negative
+samplenew_00033812 lower eyebrows, raise upper eyelids, press the lips together, curl the lips upwards, does not speak with any of the emotions listed
+samplenew_00045046 sad
+samplenew_00005049 hollow on the face when smiling, and his tone sounds positive
+samplenew_00045676 brow lowerer, lid tightener, and his tone sounds negative
+samplenew_00024580 angry
+samplenew_00050875 angry
+samplenew_00008716 angry
+samplenew_00068979 sad
+samplenew_00022582 smile, pleasure, show teeth, and her tone sounds negative
+samplenew_00021492 happy
+samplenew_00062794 worried
+samplenew_00028018 frowns furrowed, and his tone sounds natural
+samplenew_00030895 angry
+samplenew_00004882 frown, downturned corners of the mouth, does not speak with any of the emotions listed
+samplenew_00026773 sad
+samplenew_00038860 happy
+samplenew_00049732 angry
+samplenew_00050510 lower the brow, head lifting wrinkles, speaks with a fearful emotion
+samplenew_00042295 nostrils enlarge, speaks in a fearful tone
+samplenew_00024524 chin held high, and her tone sounds positive
+samplenew_00034217 lower eyebrows, speaks in a fearful manner
+samplenew_00052327 sad
+samplenew_00001494 sad
+samplenew_00012645 brow lowerer, chin held high, speaks in a normal tone
+samplenew_00010898 angry
+samplenew_00039266 lower eyebrows, eyebrow raised, speaks with a neutral tone
+samplenew_00037017 sad
+samplenew_00064368 lower eyebrows, lips apart showing teeth, lips arching, and his tone sounds negative
+samplenew_00024009 happy
+samplenew_00059382 cheek raiser, toothy smile, indentation when smiling, speaks with a cheerful voice
+samplenew_00027719 brow lowerer, speaks in a normal tone
+samplenew_00008831 slightly lower eyebrows, big smile, indentation when smiling, and her tone sounds positive
+samplenew_00002469 toothy smile, cheek dimple, speaks with a neutral tone
+samplenew_00023664 frowns furrowed, tightening of eyelids, does not speak with any of the emotions listed
+samplenew_00040344 happy
+samplenew_00033328 slight decrease in eyebrows, toothy smile, speaks in a normal tone
+samplenew_00002037 angry
+samplenew_00005393 angry
+samplenew_00003671 downturned lips, does not speak with any of the emotions listed
+samplenew_00067349 sad
+mplenew_00017549 lower the brow, and his tone sounds positive
+samplenew_00004799 frowns furrowed, speaks in a fearful tone
+samplenew_00032825 show teeth, cheek dimple, and her tone sounds natural
+samplenew_00060552 sad
+samplenew_00062647 lower eyebrows, does not speak with any of the emotions listed
+samplenew_00039148 slight frown, does not speak with any of the emotions listed
+samplenew_00040672 lower the brow, does not speak with any of the emotions listed
+samplenew_00047821 eyes narrowing, speaks in a fearful tone
+samplenew_00070629 lower eyebrows, and her tone sounds natural
+samplenew_00014028 brow lowerer, upper lid raiser, speaks in a fearful and fearful tone
+samplenew_00031555 brow lowerer, and her tone sounds fearful
+samplenew_00068623 sad
+samplenew_00026460 sad
+samplenew_00005146 eyes widened, tightening of eyelids, lift the chin, speaks with a neutral emotion
+samplenew_00064576 lower the brow, facial tightness, lip tightener, upper lip raiser, speaks in a fearful tone
+samplenew_00039336 brow lowerer, and his tone sounds negative
+samplenew_00027514 surprise
+samplenew_00047375 angry
+samplenew_00019199 sad
+samplenew_00033381 angry
+samplenew_00048148 brow lowerer, upper lip lift, speaks in a normal tone
+samplenew_00050680 eyes narrowing, big smile, cheek dimple, speaks with a cheerful voice
+samplenew_00070584 lower the brow, speaks in a normal tone
+samplenew_00053765 angry
+sample_00005432 slight decrease in eyebrows, show teeth, speaks in a cheerful voice
+samplenew_00016958 lower eyebrows, and her tone sounds positive
+samplenew_00042053 angry
+samplenew_00017131 angry
+samplenew_00030275 angry
+samplenew_00024547 angry
+samplenew_00025353 lip tightener, does not speak with any of the emotions listed
+samplenew_00020800 sad
+samplenew_00049687 frowns furrowed, speaks in a fearful tone
+samplenew_00069806 angry
+samplenew_00067689 angry
+samplenew_00004607 sad
+samplenew_00023609 smile, pleasure, does not speak with any of the emotions listed
+sample_00006810 angry
+samplenew_00068742 sad
+samplenew_00038328 chin held high, speaks in a normal tone
+samplenew_00002599 lift eyebrows, outer brow raiser, upper lid raiser, speaks in a normal tone
+samplenew_00020718 smile, pleasure, and her tone sounds natural
+samplenew_00014633 angry

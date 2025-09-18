@@ -58,15 +58,16 @@ class FeatureFaceDataset(Dataset):
             "Could you describe the emotion-related features of the individual in the video? What emotional category do they fall into?",
         ]
 
-        # self.task_pool = [
-        #    "emotion",
-        #    "reason",
-        #    "infer",
-        # ]
-
         self.task_pool = [
            "emotion",
+           "reason",
+        #    "reason_v2",
+        #    "infer",
         ]
+
+        # self.task_pool = [
+        #    "emotion",
+        # ]
 
         print("ann_path: ", ann_path)
         self.ann_path = ann_path
@@ -81,15 +82,15 @@ class FeatureFaceDataset(Dataset):
         for ii, emo in enumerate(emos): self.emo2idx[emo] = ii
         for ii, emo in enumerate(emos): self.idx2emo[ii] = emo
 
-        json_file_path = "/home/user/selected_face/face_emotion/MERR_coarse_grained.json" 
+        json_file_path = "/home/project/Dataset/Emotion/MER2023/MERR_coarse_grained.json" 
         with open(json_file_path, 'r') as json_file:
             self.MERR_coarse_grained_dict = json.load(json_file)
 
-        reason_json_file_path = "/home/user/selected_face/face_emotion/MERR_fine_grained.json"
+        reason_json_file_path = "/home/project/Dataset/Emotion/MER2023/MERR_fine_grained.json"
         with open(reason_json_file_path, 'r') as json_file:
             self.MERR_fine_grained_dict = json.load(json_file)
 
-        self.character_lines = pd.read_csv('/home/user/selected_face/face_emotion/transcription_en_all.csv')
+        self.character_lines = pd.read_csv('/home/project/Dataset/Emotion/MER2023/transcription_en_all.csv')
 
 
     def __len__(self):
@@ -103,8 +104,38 @@ class FeatureFaceDataset(Dataset):
         if os.path.exists(video_path):
             image = self.extract_frame(video_path)
         else:
-            video_path = os.path.join(self.vis_root, video_name + ".avi")
-            image = self.extract_frame(video_path)
+            # Recursively search for .mp4 file in subdirectories
+            found = False
+            for root, _, files in os.walk(self.vis_root):
+                for file in files:
+                    if file == video_name + ".mp4":
+                        video_path = os.path.join(root, video_name + ".mp4")
+                        found = True
+                        break
+                if found:
+                    break
+            if found:
+                image = self.extract_frame(video_path)
+            else:
+                # Try .avi file in current directory
+                video_path = os.path.join(self.vis_root, video_name + ".avi")
+                if os.path.exists(video_path):
+                    image = self.extract_frame(video_path)
+                else:
+                    # Recursively search for .avi file in subdirectories
+                    found = False
+                    for root, _, files in os.walk(self.vis_root):
+                        for file in files:
+                            if file == video_name + ".avi":
+                                video_path = os.path.join(root, video_name + ".avi")
+                                found = True
+                                break
+                        if found:
+                            break
+                    if found:
+                        image = self.extract_frame(video_path)
+                    else:
+                        print("Failed to find video file:", video_path)
 
         image = Image.fromarray(image.astype('uint8'))
         image = image.convert('RGB')
@@ -135,6 +166,7 @@ class FeatureFaceDataset(Dataset):
             instruction_pool = self.emotion_instruction_pool
         elif task == "reason":
             caption = self.MERR_coarse_grained_dict[video_name]['caption']
+            
 
             caption = self.text_processor(caption)
             instruction_pool = self.reason_instruction_pool

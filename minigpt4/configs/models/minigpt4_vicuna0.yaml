@@ -15,7 +15,7 @@ model:
   # generation configs
   prompt: ""
 
-  llama_model: "please set this value to the path of vicuna model"
+  llama_model: "/home/project/Emotion-LLaMA/checkpoints/Llama-2-7b-chat-hf"
 
 preprocess:
     vis_processor:

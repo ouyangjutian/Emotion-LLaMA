@@ -1,0 +1,120 @@
+{
+    "run": {
+        "task": "image_text_pretrain",
+        "lr_sched": "linear_warmup_cosine_lr",
+        "init_lr": 1e-05,
+        "min_lr": 1e-06,
+        "warmup_lr": 1e-06,
+        "weight_decay": 0.05,
+        "max_epoch": 30,
+        "num_workers": 6,
+        "iters_per_epoch": 200,
+        "warmup_steps": 1000,
+        "seed": 42,
+        "output_dir": "/home/czb/project/Emotion-LLaMA/checkpoints/save_checkpoint",
+        "amp": true,
+        "resume_ckpt_path": null,
+        "evaluate": false,
+        "train_splits": [
+            "train"
+        ],
+        "device": "cuda",
+        "world_size": 4,
+        "dist_url": "env://",
+        "distributed": true,
+        "wandb_log": false,
+        "job_name": "minigptv2_finetune",
+        "rank": 0,
+        "gpu": 0,
+        "dist_backend": "nccl"
+    },
+    "model": {
+        "arch": "minigpt_v2",
+        "image_size": 448,
+        "drop_path_rate": 0,
+        "use_grad_checkpoint": true,
+        "vit_precision": "fp16",
+        "freeze_vit": true,
+        "prompt": "",
+        "llama_model": "/home/czb/project/Emotion-LLaMA/checkpoints/Llama-2-7b-chat-hf",
+        "lora_r": 64,
+        "lora_alpha": 16,
+        "model_type": "pretrain",
+        "max_txt_len": 1024,
+        "end_sym": "</s>",
+        "ckpt": "/home/czb/project/Emotion-LLaMA/checkpoints/save_checkpoint/stage-1/checkpoint_20.pth",
+        "chat_template": true
+    },
+    "preprocess": {
+        "vis_processor": {
+            "train": {
+                "name": "blip2_image_train",
+                "image_size": 448
+            },
+            "eval": {
+                "name": "blip2_image_eval",
+                "image_size": 448
+            }
+        },
+        "text_processor": {
+            "train": {
+                "name": "blip_caption"
+            },
+            "eval": {
+                "name": "blip_caption"
+            }
+        }
+    },
+    "datasets": {
+        "feature_face_caption": {
+            "data_type": "images",
+            "build_info": {
+                "image_path": "/home/czb/big_space/datasets/Emotion/MER2023/video",
+                "ann_path": "/home/czb/big_space/datasets/Emotion/MER2023/MERR_fine_grained.txt"
+            },
+            "batch_size": 1,
+            "vis_processor": {
+                "train": {
+                    "name": "blip2_image_train",
+                    "image_size": 448
+                }
+            },
+            "text_processor": {
+                "train": {
+                    "name": "blip_caption"
+                }
+            },
+            "sample_ratio": 30
+        }
+    }
+}
+{"train_lr": "0.000002", "train_loss": "0.913000"}
+{"train_lr": "0.000002", "train_loss": "0.723640"}
+{"train_lr": "0.000002", "train_loss": "0.666466"}
+{"train_lr": "0.000002", "train_loss": "0.625447"}
+{"train_lr": "0.000002", "train_loss": "0.645631"}
+{"train_lr": "0.000009", "train_loss": "0.584332"}
+{"train_lr": "0.000009", "train_loss": "0.617521"}
+{"train_lr": "0.000009", "train_loss": "0.548981"}
+{"train_lr": "0.000008", "train_loss": "0.554183"}
+{"train_lr": "0.000008", "train_loss": "0.553118"}
+{"train_lr": "0.000008", "train_loss": "0.579908"}
+{"train_lr": "0.000007", "train_loss": "0.488256"}
+{"train_lr": "0.000007", "train_loss": "0.543432"}
+{"train_lr": "0.000006", "train_loss": "0.466624"}
+{"train_lr": "0.000006", "train_loss": "0.476926"}
+{"train_lr": "0.000005", "train_loss": "0.519512"}
+{"train_lr": "0.000005", "train_loss": "0.480161"}
+{"train_lr": "0.000004", "train_loss": "0.493971"}
+{"train_lr": "0.000004", "train_loss": "0.450002"}
+{"train_lr": "0.000003", "train_loss": "0.458100"}
+{"train_lr": "0.000003", "train_loss": "0.472097"}
+{"train_lr": "0.000003", "train_loss": "0.460641"}
+{"train_lr": "0.000002", "train_loss": "0.456516"}
+{"train_lr": "0.000002", "train_loss": "0.431518"}
+{"train_lr": "0.000002", "train_loss": "0.458387"}
+{"train_lr": "0.000001", "train_loss": "0.466918"}
+{"train_lr": "0.000001", "train_loss": "0.433964"}
+{"train_lr": "0.000001", "train_loss": "0.465659"}
+{"train_lr": "0.000001", "train_loss": "0.430738"}
+{"train_lr": "0.000001", "train_loss": "0.440036"}

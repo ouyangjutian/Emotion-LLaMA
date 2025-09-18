@@ -5,8 +5,12 @@ model:
   end_sym: "</s>"
   low_resource: False
   prompt_template: '[INST] {} [/INST]'
-  llama_model: "/home/user/project/Emotion-LLaMA/checkpoints/Llama-2-7b-chat-hf"
-  ckpt: "/home/user/project/Emotion-LLaMA/checkpoints/save_checkpoint/stage2/checkpoint_best.pth"
+  llama_model: "/home/project/Emotion-LLaMA/checkpoints/Llama-2-7b-chat-hf"
+  # 不使用自己训练的checkpoint文件
+  ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/stage2/checkpoint_best.pth"
+  # 使用自己训练的checkpoint文件
+  # ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/stage2/xxxxxxxxxxxxxx.pth"
+
   lora_r: 64
   lora_alpha: 16
 
@@ -24,9 +28,9 @@ datasets:
 
 evaluation_datasets:
   feature_face_caption:
-    eval_file_path: /home/user/selected_face/face_emotion/relative_test3_NCEV.txt # MER2023
+    eval_file_path: /home/project/Dataset/Emotion/MER2023/relative_test3_NCEV.txt # MER2023
 
-    img_path: /home/czb/big_space/datasets/Emotion/MER2023/video
+    img_path: /home/project/Dataset/Emotion/MER2023/video
 
     # eval_file_path: /home/user/selected_face/DFEW/reltive_DFEW_set_1_test.txt
     # img_path: /home/user/selected_face/DFEW/images     
@@ -35,12 +39,12 @@ evaluation_datasets:
     batch_size: 1
 
   mer2024_caption:
-    eval_file_path: /home/czb/big_space/datasets/Emotion/MER2024/MER2024-noise_NCE.txt # MER2024
-    img_path: /home/czb/big_space/datasets/Emotion/MER2024/video-unlabeled-with-test2noise
+    eval_file_path: /home/project/Dataset/Emotion/MER2024/MER2024-noise_NCE.txt # MER2024
+    img_path: /home/project/Dataset/Emotion/MER2024/video-unlabeled-with-test2noise
     max_new_tokens: 500
     batch_size: 1  
 
 run:
   task: image_text_pretrain
   name: minigptv2_evaluation
-  save_path: /home/user/project/Emotion-LLaMA/results
+  save_path: /home/project/Emotion-LLaMA/results

@@ -4,11 +4,14 @@ model:
   max_txt_len: 1024
   image_size: 448
   end_sym: "</s>"
-  llama_model: "/home/czb/big_space/models/Llama-2-7b-chat-hf"
+  llama_model: "/home/project/Emotion-LLaMA/checkpoints/Llama-2-7b-chat-hf"
 
   # ckpt: "/home/czb/big_space/models/minigptv2/minigptv2_checkpoint.pth"
-  ckpt: "/home/czb/project/Emotion-LLaMA/checkpoints/save_checkpoint/2024xxxxxxx/checkpoint_29.pth"
-
+  ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/2024xxxxxxx/checkpoint_29.pth"
+# 如果您没有运行 Stage 1 预训练代码，您可以直接设置提供的演示模型参数文件的路径：
+# Set Emotion-LLaMA path
+  # ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/Emoation_LLaMA.pth"
+  
   use_grad_checkpoint: True
   chat_template: True
   lora_r: 64
@@ -45,7 +48,7 @@ run:
   warmup_steps: 1000
 
   seed: 42
-  output_dir: "/home/czb/project/Emotion-LLaMA/checkpoints/save_checkpoint"
+  output_dir: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint"
 
   amp: True
   resume_ckpt_path: null
