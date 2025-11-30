@@ -1,10 +1,1 @@
-checkpoints/minigptv2_checkpoint.pth
-
-checkpoints/Llama-2-7b-chat-hf/model-00001-of-00002.safetensors
-checkpoints/Llama-2-7b-chat-hf/model-00002-of-00002.safetensors
-checkpoints/Llama-2-7b-chat-hf/pytorch_model-00001-of-00002.bin
-checkpoints/Llama-2-7b-chat-hf/pytorch_model-00002-of-00002.bin
-checkpoints/save_checkpoint/Emoation_LLaMA.pth
-checkpoints/save_checkpoint/MER2024-best.pth
-checkpoints/save_checkpoint/stage2/checkpoint_best.pth
-checkpoints/save_checkpoint/stage2/MER2024-best.pth
+checkpoints/

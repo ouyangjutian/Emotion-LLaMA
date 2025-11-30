@@ -7,9 +7,10 @@ model:
   prompt_template: '[INST] {} [/INST]'
   llama_model: "/home/project/Emotion-LLaMA/checkpoints/Llama-2-7b-chat-hf"
   # 不使用自己训练的checkpoint文件
-  ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/stage2/checkpoint_best.pth"
+  # ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/stage2/checkpoint_best.pth"
   # 使用自己训练的checkpoint文件
-  # ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/stage2/xxxxxxxxxxxxxx.pth"
+  # ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/20250920160/checkpoint_29.pth"
+  ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/Emoation_LLaMA.pth"
 
   lora_r: 64
   lora_alpha: 16
@@ -30,7 +31,7 @@ evaluation_datasets:
   feature_face_caption:
     eval_file_path: /home/project/Dataset/Emotion/MER2023/relative_test3_NCEV.txt # MER2023
 
-    img_path: /home/project/Dataset/Emotion/MER2023/video
+    img_path: /home/project/Dataset/Emotion/MER2023/mybuild/dataset-release/dataset-process/video
 
     # eval_file_path: /home/user/selected_face/DFEW/reltive_DFEW_set_1_test.txt
     # img_path: /home/user/selected_face/DFEW/images     

@@ -59,9 +59,9 @@ class FeatureFaceDataset(Dataset):
         ]
 
         self.task_pool = [
-           "emotion",
-           "reason",
-        #    "reason_v2",
+        #    "emotion",
+        #    "reason",
+           "reason_v2",
         #    "infer",
         ]
 
@@ -172,9 +172,9 @@ class FeatureFaceDataset(Dataset):
             instruction_pool = self.reason_instruction_pool
 
         elif task == "reason_v2":
-            caption = self.MERR_fine_grained_dict[video_name]['smp_reason_caption']
+            # caption = self.MERR_fine_grained_dict[video_name]['smp_reason_caption']
 
-            # caption = "" # for test reasoning
+            caption = "" # for test reasoning
 
             caption = self.text_processor(caption)
             instruction_pool = self.reason_instruction_pool

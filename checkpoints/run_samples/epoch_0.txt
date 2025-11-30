@@ -1,1008 +1,1000 @@
-samplenew_00034394 sad
-samplenew_00064119 slight decrease in eyebrows, toothy smile, hollow on the face when smiling, and her tone sounds positive
-samplenew_00038600 angry
-samplenew_00019087 angry
-samplenew_00046256 lower the brow, raise upper eyelids, curl the lips upwards, chin held high, and his tone sounds natural
-samplenew_00039771 worried
-samplenew_00015001 lower eyebrows, upper lip lift, speaks in a fearful voice
-samplenew_00032359 angry
-samplenew_00053082 angry
-samplenew_00016203 frowns furrowed, speaks in a neutral tone
-samplenew_00060221 sad
-samplenew_00005409 angry
-samplenew_00023270 facial tightness, does not speak with any of the emotions listed
-samplenew_00035065 surprise
-samplenew_00008006 angry
-samplenew_00050238 toothy smile, speaks with a fearful tone
-samplenew_00006691 sad
-samplenew_00047009 lower the brow, lid tightener, chin held high, speaks in a normal tone
-samplenew_00037904 lower the brow, speaks in a normal tone
-samplenew_00006226 surprise
-samplenew_00065064 big smile, dimpler, does not speak with any of the emotions listed
-samplenew_00009774 surprise
-samplenew_00033272 angry
-samplenew_00062356 happy
-samplenew_00039848 brow lowerer, tightening of eyelids, lips apart showing teeth, speaks in a fearful tone
-samplenew_00053479 frowns furrowed, tightening of eyelids, upper lip raiser, does not speak with any of the emotions listed
-samplenew_00027025 happy
-samplenew_00057180 angry
-samplenew_00004812 frowns furrowed, and his tone sounds negative
-samplenew_00025610 angry
-samplenew_00033746 angry
-samplenew_00004175 lift upper eyelids, lift the chin, speaks in a normal tone
-samplenew_00032597 frowns furrowed, tightening of eyelids, speaks in a normal tone
-samplenew_00070013 lip tightener, curl the lips upwards, and his tone sounds fearful
-samplenew_00042383 lower eyebrows, lift the chin, and his tone sounds negative
-samplenew_00049823 happy
-samplenew_00063571 sad
-samplenew_00061080 brow lowerer, speaks with a fearful tone
-samplenew_00003509 brow lowerer, speaks in a fearful and angry tone
-samplenew_00003992 sad
-samplenew_00069718 angry
-samplenew_00048553 lip corner puller, indentation when smiling, does not speak with any of the emotions listed
-samplenew_00015607 brow lowerer, and his tone sounds negative
-samplenew_00033485 lower the brow, lid tightener, chin held high, speaks with a fearful emotion
-samplenew_00032982 sad
-samplenew_00012323 happy
-samplenew_00006259 lower the brow, eyebrow raised, speaks in a fearful tone
-samplenew_00001667 angry
-samplenew_00067556 lower eyebrows, eyes widened, curl the lips upwards, speaks with a fearful emotion
-samplenew_00041196 slightly lower eyebrows, toothy smile, and her tone sounds natural
-samplenew_00005429 sad
-samplenew_00035933 upper lid raiser, speaks with a skeptical tone
-sample_00001983 worried
-samplenew_00021220 lower the brow, and his tone sounds natural
-samplenew_00036886 lower the brow, chin raiser, and her tone sounds positive
-samplenew_00003943 upper lip lift, and his tone sounds negative
-samplenew_00032326 sad
-sample_00002285 angry
-samplenew_00001279 lower eyebrows, lip tightener, lift the chin, speaks in a neutral tone
-samplenew_00034494 sad
-samplenew_00007530 nostrils enlarge, speaks in a fearful tone
-samplenew_00012966 angry
-samplenew_00064309 sad
-samplenew_00004132 frowns furrowed, lid tightener, curl the lips upwards, and his tone sounds negative
-samplenew_00043933 lower the brow, pupil enlargement, facial tightness, speaks in a normal tone
-samplenew_00046491 grinning, indentation when smiling, does not speak with any of the emotions listed
-samplenew_00008562 sad
-samplenew_00036049 happy
-samplenew_00025868 nasal flaring, and his tone sounds natural
-samplenew_00012670 angry
-samplenew_00034417 angry
-samplenew_00066522 slightly lower eyebrows, speaks with a cheerful voice
-samplenew_00069181 angry
-samplenew_00000138 upper lid raiser, facial tightness, speaks in a neutral tone
-samplenew_00003404 downturned corners of the mouth, speaks in a normal tone
-samplenew_00048873 cheek raiser, show teeth, and his tone sounds negative
-samplenew_00045234 big smile, hollow on the face when smiling, and his tone sounds natural
-samplenew_00069645 sad
-samplenew_00019611 frowns furrowed, downturned lips, speaks in a fearful and sad tone
-samplenew_00002248 frowns furrowed, speaks in a normal tone
-samplenew_00012229 sad
-samplenew_00031503 lower eyebrows, and her tone sounds natural
-samplenew_00068896 worried
-samplenew_00047194 lower eyebrows, lower lip depressor, slight drooping of the mouth, does not speak with any of the emotions listed
-samplenew_00070191 frowns furrowed, speaks with a fearful tone
-samplenew_00068789 sad
-samplenew_00035153 angry
-samplenew_00060618 upper lid raiser, speaks in a fearful tone
-samplenew_00038739 lower eyebrows, speaks with a fearful voice
-samplenew_00044386 sad
-samplenew_00002356 sad
-samplenew_00004004 sad
-samplenew_00035657 lower the brow, eyes widened, upper lip lift, does not speak with any of the emotions listed
-samplenew_00002032 sad
-samplenew_00070499 angry
-samplenew_00068674 sad
-samplenew_00052964 sad
-samplenew_00049126 angry
-samplenew_00013221 grinning, speaks with a fearful emotion
-samplenew_00010540 angry
-samplenew_00027650 lower the brow, and her tone sounds negative
-samplenew_00034059 angry
-samplenew_00022137 frowns furrowed, slight frown, does not speak with any of the emotions listed
-samplenew_00004744 sad
-samplenew_00016892 lower the brow, frown, lip corner depressor, does not speak with any of the emotions listed
-samplenew_00004305 brow lowerer, upper lid raiser, speaks in a normal tone
-samplenew_00058160 frowns furrowed, slight frown, speaks in a neutral tone
-samplenew_00022867 eyes narrowing, grinning, indentation when smiling, and her tone sounds natural
-samplenew_00000753 angry
-samplenew_00010074 slightly lower eyebrows, lip corner puller, dimpler, and her tone sounds positive
-samplenew_00006886 pupil enlargement, upper lip raiser, chin held high, and his tone sounds negative
-samplenew_00066757 big smile, cheek dimple, speaks in a fearful tone
-samplenew_00010468 slightly lower eyebrows, big smile, and his tone sounds positive
-samplenew_00032722 sad
-samplenew_00059252 sad
-samplenew_00068805 angry
-samplenew_00063142 angry
-samplenew_00042435 happy
-samplenew_00059711 brow lowerer, pupil enlargement, does not speak with any of the emotions listed
-samplenew_00002079 happy
-samplenew_00027006 frowns furrowed, lip corner depressor, and her tone sounds negative
-samplenew_00046440 sad
-samplenew_00008809 frowns furrowed, speaks in a neutral tone
-samplenew_00026433 nasal flaring, does not speak with any of the emotions listed
-samplenew_00002068 sad
-samplenew_00007035 sad
-samplenew_00035199 eyes widened, tighten the lips,purse the lips, speaks in a fearful voice
-samplenew_00044656 eyes widened, does not speak with any of the emotions listed
-samplenew_00019268 upper lip lift, speaks in a angry voice
-samplenew_00033424 smile, pleasure, show teeth, indentation when smiling, and her tone sounds positive
-samplenew_00019375 lower eyebrows, lower lip depressor, and his tone sounds negative
-samplenew_00051846 angry
-samplenew_00026536 slight decrease in eyebrows, toothy smile, cheek dimple, and her tone sounds positive
-samplenew_00051423 angry
-samplenew_00039018 angry
-samplenew_00005602 happy
-samplenew_00001752 anxiously stretched lips, speaks in a neutral tone
-samplenew_00032701 brow lowerer, facial tightness, lips arching, does not speak with any of the emotions listed
-samplenew_00067285 lower eyebrows, curl the lips upwards, speaks in a normal tone
-samplenew_00057397 sad
-samplenew_00068592 lower the brow, lip corner depressor, speaks in a normal tone
-samplenew_00050387 sad
-samplenew_00055829 worried
-sample_00002121 lower the brow, lid tightener, lift the chin, and his tone sounds negative
-samplenew_00029610 angry
-samplenew_00012175 sad
-samplenew_00004523 angry
-samplenew_00008387 happy
-samplenew_00042562 sad
-samplenew_00041791 sad
-samplenew_00052232 sad
-samplenew_00010061 brow lowerer, speaks in a fearful tone
-samplenew_00006348 brow lowerer, speaks with a fearful emotion
-samplenew_00009204 angry
-samplenew_00012778 raise upper eyelids, speaks with a fearful tone
-samplenew_00007644 sad
-samplenew_00045036 eyes widened, curl the lips upwards, speaks with a fearful tone
-samplenew_00025861 lower eyebrows, speaks in a fearful tone
-samplenew_00036765 frowns furrowed, facial tightness, does not speak with any of the emotions listed
-samplenew_00020955 brow lowerer, does not speak with any of the emotions listed
-samplenew_00046387 sad
-samplenew_00060448 lower the brow, speaks in a normal tone
-samplenew_00061662 tighten the lips,purse the lips, chin held high, speaks in a cheerful voice
-samplenew_00005926 sad
-samplenew_00037426 lips arching, speaks in a neutral tone
-samplenew_00056079 sad
-samplenew_00025435 sad
-samplenew_00004283 frowns furrowed, does not speak with any of the emotions listed
-samplenew_00010051 frowns furrowed, tightening of eyelids, chin held high, speaks in a normal tone
-samplenew_00070566 brow lowerer, does not speak with any of the emotions listed
-samplenew_00069566 slight decrease in eyebrows, toothy smile, cheek dimple, does not speak with any of the emotions listed
-samplenew_00051536 angry
-samplenew_00035949 sad
-samplenew_00063009 lower eyebrows, lid tightener, lips apart showing teeth, speaks in a fearful tone
-sample_00001431 brow lowerer, tightening of eyelids, lips apart showing teeth, speaks with a fearful tone
-sample_00003273 lower the brow, facial tightness, lift the chin, speaks with a fearful emotion
-samplenew_00039062 sad
-samplenew_00026454 sad
-samplenew_00025140 sad
-samplenew_00052337 lower eyebrows, does not speak with any of the emotions listed
-samplenew_00018429 upper lid raiser, does not speak with any of the emotions listed
-samplenew_00020453 lower the brow, speaks with a angry tone
-samplenew_00030997 grinning, and his tone sounds natural
-samplenew_00028051 angry
-samplenew_00054868 sad
-samplenew_00059948 happy
-samplenew_00019903 happy
-samplenew_00060101 lower the brow, raise upper eyelids, speaks in a neutral tone
-samplenew_00018085 smile, pleasure, lip corner puller, cheek dimple, speaks in a fearful tone
-samplenew_00053460 inner brow raiser, open mouth wide, speaks in a normal tone
-samplenew_00010510 frowns furrowed, curl the lips upwards, and his tone sounds negative
-samplenew_00068309 angry
-samplenew_00067259 worried
-samplenew_00027891 sad
-samplenew_00016075 facial tightness, upper lip raiser, does not speak with any of the emotions listed
-samplenew_00044040 slight frown, does not speak with any of the emotions listed
-samplenew_00044674 frowns furrowed, downturned lips, does not speak with any of the emotions listed
-samplenew_00060867 lower the brow, lift upper eyelids, facial tightness, speaks in a fearful tone
-samplenew_00034338 downturned lips, and his tone sounds positive
-samplenew_00048033 angry
-samplenew_00039555 lower the brow, lift the chin, speaks with a fearful emotion
-samplenew_00019475 sad
-samplenew_00036718 big smile, indentation when smiling, does not speak with any of the emotions listed
-samplenew_00059159 happy
-samplenew_00001501 frowns furrowed, raise upper eyelids, lid tightener, lift the chin, speaks in a fearful tone
-samplenew_00016111 sad
-samplenew_00027105 angry
-samplenew_00042288 smile, pleasure, toothy smile, hollow on the face when smiling, speaks in a fearful voice
-samplenew_00042985 lower the brow, upper lip raiser, speaks in a normal tone
-samplenew_00022801 lift upper eyelids, and his tone sounds negative
-samplenew_00009416 angry
-samplenew_00003709 grinning, speaks in a fearful tone
-samplenew_00017188 sad
-samplenew_00018248 surprise
-samplenew_00043194 angry
-samplenew_00032114 sad
-samplenew_00041872 lower the brow, upper lip raiser, speaks with a fearful emotion
-samplenew_00049317 brow lowerer, and her tone sounds positive
-samplenew_00028173 angry
-samplenew_00045499 angry
-samplenew_00004465 lower the brow, frown, downturned lips, speaks with a neutral tone
-samplenew_00002489 angry
-samplenew_00033976 sad
-samplenew_00033547 upper lip lift, does not speak with any of the emotions listed
-samplenew_00050184 angry
-samplenew_00004138 sad
-samplenew_00055331 brow lowerer, inner brow raiser, and his tone sounds natural
-samplenew_00057755 brow lowerer, upper lid raiser, upper lip lift, lips forming an upward curve, and his tone sounds negative
-samplenew_00032097 sad
-samplenew_00030623 raise upper eyelids, lid tightener, lips apart showing teeth, chin raiser, and his tone sounds negative
-samplenew_00013675 eyes narrowing, lip corner puller, dimpler, does not speak with any of the emotions listed
-samplenew_00021364 frowns furrowed, lid tightener, chin held high, speaks in a normal tone
-samplenew_00001815 sad
-samplenew_00016012 sad
-samplenew_00026182 brow lowerer, eyes widened, lips apart showing teeth, and her tone sounds negative
-samplenew_00063528 slight drooping of the mouth, speaks in a fearful tone
-samplenew_00041147 downturned lips, speaks in a fearful tone
-samplenew_00025422 lip corner puller, and his tone sounds negative
-samplenew_00034978 sad
-samplenew_00042712 frowns furrowed, upper lid raiser, tighten the lips,purse the lips, speaks with a fearful tone
-samplenew_00017707 frowns furrowed, lips arching, speaks with a neutral tone
-samplenew_00023984 big smile, cheek dimple, does not speak with any of the emotions listed
-samplenew_00043310 sad
-samplenew_00032665 lower the brow, lips apart showing teeth, lift the chin, and his tone sounds angry
-samplenew_00020986 sad
-samplenew_00056824 angry
-samplenew_00040391 angry
-samplenew_00016967 eyes narrowing, big smile, does not speak with any of the emotions listed
-sample_00001536 slightly lower eyebrows, and his tone sounds negative
-samplenew_00000234 frowns furrowed, tightening of eyelids, speaks in a fearful tone
-samplenew_00025039 angry
-samplenew_00051774 happy
-samplenew_00062925 sad
-samplenew_00022718 eyes narrowing, dimpler, speaks in a neutral tone
-samplenew_00046703 cheek raiser, show teeth, hollow on the face when smiling, speaks in a normal tone
-samplenew_00058258 happy
-samplenew_00009470 sad
-samplenew_00021255 angry
-samplenew_00023231 angry
-samplenew_00070009 lower the brow, does not speak with any of the emotions listed
-samplenew_00058104 angry
-samplenew_00034533 angry
-samplenew_00015186 lower eyebrows, lips forming an upward curve, speaks in a normal tone
-samplenew_00017349 brow lowerer, speaks in a fearful tone
-samplenew_00061952 toothy smile, dimpler, speaks in a cheerful voice
-samplenew_00018086 happy
-samplenew_00070106 lower eyebrows, and her tone sounds natural
-samplenew_00030015 angry
-samplenew_00042680 worried
-samplenew_00046109 angry
-samplenew_00043052 downward mouth curvature, speaks in a normal tone
-samplenew_00060034 sad
-samplenew_00015163 happy
-samplenew_00022248 angry
-samplenew_00025425 cheek raiser, show teeth, hollow on the face when smiling, and his tone sounds negative
-samplenew_00008365 angry
-samplenew_00019339 happy
-samplenew_00010527 angry
-samplenew_00061272 sad
-samplenew_00033652 angry
-sample_00001775 lower the brow, facial tightness, lips apart showing teeth, speaks in a angry tone
-samplenew_00002858 angry
-samplenew_00057187 sad
-samplenew_00018365 lower the brow, speaks in a fearful tone
-samplenew_00055759 chin raiser, speaks in a normal tone
-samplenew_00019206 angry
-samplenew_00059128 brow lowerer, does not speak with any of the emotions listed
-samplenew_00045974 slightly lower eyebrows, show teeth, hollow on the face when smiling, does not speak with any of the emotions listed
-samplenew_00068452 angry
-samplenew_00044816 frowns furrowed, tightening of eyelids, lip tightener, lips apart showing teeth, does not speak with any of the emotions listed
-samplenew_00012353 lower eyebrows, and his tone sounds negative
-samplenew_00062500 brow lowerer, does not speak with any of the emotions listed
-samplenew_00012998 bring lips together, does not speak with any of the emotions listed
-samplenew_00024807 sad
-samplenew_00031665 angry
-samplenew_00046151 lower eyebrows, slight frown, speaks in a fearful tone
-samplenew_00002800 brow lowerer, curl the lips upwards, speaks in a fearful tone
-sample_00001961 lower the brow, frown, it sounds like this person is angry in the audio
-samplenew_00038434 happy
-samplenew_00042893 angry
-samplenew_00059529 angry
-samplenew_00044146 brow lowerer, slight drooping of the mouth, speaks in a normal tone
-samplenew_00070868 brow lowerer, press the lips together, does not speak with any of the emotions listed
-samplenew_00030510 press the lips together, upper lip raiser, lips forming an upward curve, and his tone sounds negative
-samplenew_00022027 slight decrease in eyebrows, grinning, and her tone sounds positive
-samplenew_00000364 happy
-samplenew_00058090 angry
-samplenew_00044111 angry
-samplenew_00014259 sad
-sample_00004946 angry
-samplenew_00054910 sad
-samplenew_00029552 sad
-samplenew_00050891 lower the brow, facial tightness, curl the lips upwards, lift the chin, speaks with a fearful tone
-samplenew_00033549 sad
-samplenew_00041675 brow lowerer, does not speak with any of the emotions listed
-samplenew_00021793 happy
-samplenew_00024549 lower eyebrows, lower lip depressor, and her tone sounds natural
-samplenew_00062060 angry
-samplenew_00026681 wide-mouthed, and her tone sounds angry
-samplenew_00007237 angry
-samplenew_00044263 angry
-samplenew_00063760 frowns furrowed, lip tightener, lift the chin, and his tone sounds positive
-samplenew_00034148 worried
-samplenew_00000114 sad
-samplenew_00044691 happy
-samplenew_00004137 brow lowerer, facial tightness, upper lip lift, lips arching, speaks in a normal tone
-samplenew_00031143 angry
-samplenew_00062061 angry
-samplenew_00005501 lower eyebrows, tightening of eyelids, curl the lips upwards, speaks with a fearful tone
-samplenew_00029611 upper lid raiser, curl the lips upwards, speaks in a normal tone
-samplenew_00028973 frowns furrowed, tighten the lips,purse the lips, does not speak with any of the emotions listed
-samplenew_00050221 happy
-samplenew_00063645 worried
-samplenew_00033823 brow lowerer, downturned lips, does not speak with any of the emotions listed
-samplenew_00023213 brow lowerer, and her tone sounds natural
-samplenew_00042704 happy
-samplenew_00043987 angry
-samplenew_00022897 eyes narrowing, show teeth, cheek dimple, and his tone sounds happy
-samplenew_00013373 angry
-samplenew_00001598 brow lowerer, and his tone sounds angry
-samplenew_00041995 happy
-samplenew_00062677 lower the brow, and his tone sounds natural
-samplenew_00036427 sad
-sample_00000524 lip corner puller, hollow on the face when smiling, and her tone sounds negative
-samplenew_00010405 angry
-samplenew_00031992 brow lowerer, speaks in a fearful tone
-sample_00002854 angry
-samplenew_00009139 lips forming an upward curve, speaks in a neutral tone
-samplenew_00028108 angry
-samplenew_00028362 brow lowerer, speaks in a normal tone
-samplenew_00002194 sad
-samplenew_00051238 angry
-samplenew_00025974 sad
-samplenew_00028003 angry
-samplenew_00032850 angry
-samplenew_00014156 eyes narrowing, hollow on the face when smiling, does not speak with any of the emotions listed
-samplenew_00000119 angry
-samplenew_00024883 slightly lower eyebrows, toothy smile, dimpler, does not speak with any of the emotions listed
-samplenew_00057171 sad
-samplenew_00020506 insecure, does not speak with any of the emotions listed
-samplenew_00051533 angry
-samplenew_00005911 lower eyebrows, slight drooping of the mouth, and her tone sounds negative
-samplenew_00022705 brow lowerer, and her tone sounds natural
-samplenew_00046429 dimpler, does not speak with any of the emotions listed
-samplenew_00061715 tighten the lips,purse the lips, does not speak with any of the emotions listed
-samplenew_00059788 frowns furrowed, insecure, and his tone sounds negative
-samplenew_00026073 lips forming an upward curve, does not speak with any of the emotions listed
-samplenew_00037819 frowns furrowed, does not speak with any of the emotions listed
-samplenew_00003046 happy
-samplenew_00024030 draw in lips, and her tone sounds natural
-samplenew_00053982 frowns furrowed, raise upper eyelids, lip tightener, and his tone sounds natural
-samplenew_00003826 angry
-samplenew_00023127 grinning, speaks in a cheerful voice
-samplenew_00013107 angry
-samplenew_00066108 lower eyebrows, does not speak with any of the emotions listed
-samplenew_00010552 frowns furrowed, lid tightener, lift the chin, does not speak with any of the emotions listed
-samplenew_00032496 brow lowerer, speaks with a fearful emotion
-samplenew_00065566 frowns furrowed, curl the lips upwards, and his tone sounds negative
-samplenew_00058452 slightly lower eyebrows, indentation when smiling, and his tone sounds positive
-samplenew_00048574 lower the brow, does not speak with any of the emotions listed
-samplenew_00011095 lips apart showing teeth, does not speak with any of the emotions listed
-sample_00003352 angry
-samplenew_00040684 smile, pleasure, big smile, dimpler, speaks in a fearful tone
-samplenew_00061406 angry
-samplenew_00035839 happy
-samplenew_00014401 upper lip lift, lips forming an upward curve, does not speak with any of the emotions listed
-samplenew_00026349 eyes widened, speaks with a fearful tone
-samplenew_00068661 sad
-samplenew_00018118 slightly lower eyebrows, grinning, does not speak with any of the emotions listed
-samplenew_00027912 angry
-samplenew_00019894 lower the brow, eyes widened, does not speak with any of the emotions listed
-samplenew_00051740 raise upper eyelids, speaks in a fearful tone
-samplenew_00010462 lower the brow, does not speak with any of the emotions listed
-samplenew_00000257 happy
-samplenew_00031926 angry
-samplenew_00068715 sad
-samplenew_00070539 frowns furrowed, and his tone sounds negative
-sample_00004993 happy
-samplenew_00022121 angry
-samplenew_00010243 slight drooping of the mouth, and her tone sounds natural
-samplenew_00038188 frown, and her tone sounds negative
-samplenew_00018721 brow lowerer, insecure, and her tone sounds positive
-samplenew_00024516 sad
-samplenew_00062914 lift upper eyelids, upper lip lift, lips forming an upward curve, speaks in a normal tone
-samplenew_00009542 lower eyebrows, does not speak with any of the emotions listed
-samplenew_00055115 nostrils enlarge, speaks in a fearful tone
-samplenew_00060689 frowns furrowed, upper lid raiser, speaks in a normal tone
-samplenew_00054290 sad
-samplenew_00052416 angry
-samplenew_00030742 frowns furrowed, speaks in a normal tone
-samplenew_00024230 angry
-samplenew_00007956 angry
-samplenew_00021394 worried
-samplenew_00015985 frowns furrowed, and his tone sounds negative
-samplenew_00039782 sad
-samplenew_00032622 indentation when smiling, speaks in a fearful tone
-samplenew_00061024 upper lid raiser, speaks in a normal tone
-samplenew_00002287 lower the brow, eyes widened, speaks in a neutral tone
-samplenew_00038460 sad
-samplenew_00065693 happy
-samplenew_00064556 angry
-samplenew_00008944 sad
-samplenew_00060136 eyebrow raised, lip corner depressor, speaks in a normal tone
-samplenew_00069607 sad
-samplenew_00043712 happy
-samplenew_00010596 sad
-samplenew_00023215 lower the brow, and his tone sounds negative
-samplenew_00061931 sad
-samplenew_00014261 frowns furrowed, lift the chin, speaks in a fearful tone
-samplenew_00055714 slight decrease in eyebrows, show teeth, speaks in a fearful tone
-samplenew_00013878 frowns furrowed, and her tone sounds natural
-samplenew_00070988 slight decrease in eyebrows, and his tone sounds positive
-samplenew_00012058 lip corner puller, hollow on the face when smiling, speaks in a fearful manner
-samplenew_00062109 angry
-samplenew_00012225 lower eyebrows, lift upper eyelids, lid tightener, lips apart showing teeth, speaks in a fearful tone
-samplenew_00029057 sad
-samplenew_00028665 slight decrease in eyebrows, indentation when smiling, does not speak with any of the emotions listed
-samplenew_00067485 lower eyebrows, does not speak with any of the emotions listed
-samplenew_00034708 happy
-samplenew_00053399 sad
-samplenew_00062094 frowns furrowed, slight frown, speaks with a fearful emotion
-samplenew_00037761 worried
-samplenew_00061220 angry
-samplenew_00026801 angry
-samplenew_00025150 angry
-samplenew_00003283 smile, pleasure, toothy smile, cheek dimple, does not speak with any of the emotions listed
-samplenew_00042405 happy
-samplenew_00019462 happy
-samplenew_00062268 worried
-samplenew_00006107 lower eyebrows, lips apart showing teeth, speaks in a normal tone
-samplenew_00054044 sad
-samplenew_00004734 frowns furrowed, lid tightener, lips arching, speaks in a normal tone
-samplenew_00048371 brow lowerer, lid tightener, tighten the lips,purse the lips, and his tone sounds negative
-samplenew_00011842 angry
-samplenew_00003360 angry
-samplenew_00028165 angry
-samplenew_00056669 angry
-samplenew_00031925 eyes narrowing, toothy smile, hollow on the face when smiling, speaks in a neutral tone
-samplenew_00020000 frowns furrowed, tightening of eyelids, and his tone sounds negative
-samplenew_00052405 frowns furrowed, eyebrow raised, downward mouth curvature, downturned lips, does not speak with any of the emotions listed
-samplenew_00033455 happy
-samplenew_00005513 frowns furrowed, lip tightener, upper lip raiser, speaks in a fearful tone
-samplenew_00002639 smile, pleasure, grinning, cheek dimple, and her tone sounds negative
-samplenew_00008802 angry
-samplenew_00037930 angry
-samplenew_00065896 pupil enlargement, chin held high, and his tone sounds negative
-samplenew_00063555 lower the brow, insecure, speaks in a normal tone
-samplenew_00026817 slight decrease in eyebrows, show teeth, dimpler, and her tone sounds negative
-samplenew_00069807 angry
-samplenew_00028238 sad
-samplenew_00008397 sad
-samplenew_00033324 angry
-samplenew_00067190 lift upper eyelids, lips apart showing teeth, speaks in a fearful tone
-samplenew_00066041 lower the brow, facial tightness, lips apart showing teeth, does not speak with any of the emotions listed
-samplenew_00005116 happy
-samplenew_00050156 angry
-samplenew_00018729 sad
-samplenew_00007188 happy
-samplenew_00025309 lower eyebrows, lift eyebrows, and her tone sounds fearful
-samplenew_00067860 sad
-samplenew_00043651 happy
-samplenew_00023147 cheek dimple, and his tone sounds angry
-samplenew_00006304 slight decrease in eyebrows, and his tone sounds natural
-samplenew_00024074 upper lid raiser, lid tightener, and his tone sounds negative
-samplenew_00018774 angry
-samplenew_00054725 brow lowerer, speaks in a normal tone
-samplenew_00061817 angry
-samplenew_00023723 head lifting wrinkles, and his tone sounds negative
-samplenew_00012366 cheek raiser, toothy smile, speaks in a normal tone
-samplenew_00012735 tightening of eyelids, lips apart showing teeth, speaks in a normal tone
-samplenew_00037155 sad
-samplenew_00025044 sad
-samplenew_00034545 surprise
-samplenew_00049014 brow lowerer, upper lip raiser, lips arching, speaks in a fearful tone
-samplenew_00035191 lip suck, nostrils enlarge, speaks in a normal tone
-samplenew_00030457 press the lips together, lips forming an upward curve, speaks in a fearful and angry tone
-samplenew_00055314 angry
-samplenew_00065401 inner brow raiser, lift upper eyelids, and his tone sounds positive
-samplenew_00049835 lower the brow, downturned lips, speaks in a normal tone
-samplenew_00063616 angry
-samplenew_00046134 angry
-samplenew_00059275 sad
-samplenew_00058647 angry
-samplenew_00069478 angry
-samplenew_00016361 happy
-samplenew_00021947 angry
-samplenew_00059230 tightening of eyelids, lip tightener, upper lip raiser, speaks in a neutral tone
-samplenew_00069302 sad
-samplenew_00003716 lower eyebrows, slight drooping of the mouth, and his tone sounds positive
-samplenew_00065503 downward mouth curvature, and her tone sounds negative
-samplenew_00035092 sad
-samplenew_00044267 sad
-samplenew_00015882 eyes widened, lips arching, and her tone sounds positive
-samplenew_00068574 hollow on the face when smiling, speaks in a normal tone
-samplenew_00021415 angry
-samplenew_00016756 angry
-samplenew_00058587 lower eyebrows, lip corner depressor, speaks with a fearful tone
-samplenew_00061300 angry
-samplenew_00029037 sad
-samplenew_00032163 tense lips stretched, and his tone sounds natural
-sample_00001630 lower eyebrows, speaks in a normal tone
-samplenew_00058640 angry
-samplenew_00038846 lower the brow, speaks in a fearful and sad tone
-samplenew_00002290 happy
-samplenew_00071033 sad
-samplenew_00069123 angry
-samplenew_00035176 angry
-samplenew_00006076 sad
-samplenew_00043457 pupil enlargement, speaks in a fearful tone
-sample_00001822 angry
-samplenew_00039634 lower the brow, speaks in a normal tone
-samplenew_00058374 eyes widened, chin raiser, speaks with a neutral tone
-samplenew_00013394 angry
-samplenew_00029507 angry
-samplenew_00059192 frowns furrowed, and her tone sounds negative
-samplenew_00053243 angry
-samplenew_00047884 brow lowerer, upper lid raiser, speaks with a angry tone
-samplenew_00048469 sad
-samplenew_00070059 frowns furrowed, does not speak with any of the emotions listed
-samplenew_00020980 angry
-samplenew_00052688 angry
-samplenew_00023051 frowns furrowed, and his tone sounds natural
-samplenew_00049348 lower the brow, downturned lips, speaks with a heartbroken voice
-samplenew_00015440 angry
-samplenew_00039672 angry
-samplenew_00026615 sad
-samplenew_00036975 brow lowerer, speaks in a normal tone
-samplenew_00020292 angry
-samplenew_00057827 angry
-samplenew_00025777 raise upper eyelids, and his tone sounds negative
-samplenew_00052304 sad
-samplenew_00055062 downturned lips, and her tone sounds natural
-samplenew_00059335 lower the brow, does not speak with any of the emotions listed
-samplenew_00024936 happy
-samplenew_00023446 frowns furrowed, lips arching, speaks in a normal tone
-samplenew_00003456 lower the brow, tightening of eyelids, chin held high, speaks with a fearful tone
-samplenew_00016454 angry
-samplenew_00040512 cheek raiser, show teeth, and his tone sounds negative
-samplenew_00032455 frowns furrowed, raise upper eyelids, speaks in a fearful voice
-samplenew_00051125 eyes narrowing, toothy smile, indentation when smiling, speaks in a normal tone
-samplenew_00031025 angry
-samplenew_00045693 lower the brow, speaks with a angry tone
-samplenew_00045065 lower the brow, pupil enlargement, tightening of eyelids, and his tone sounds positive
-samplenew_00010769 nostrils enlarge, does not speak with any of the emotions listed
-samplenew_00036948 happy
-samplenew_00031866 happy
-samplenew_00031398 happy
-samplenew_00042674 happy
-samplenew_00033416 frowns furrowed, does not speak with any of the emotions listed
-sample_00004753 sad
-samplenew_00048728 surprise
-samplenew_00055167 sad
-samplenew_00010057 lower eyebrows, does not speak with any of the emotions listed
-samplenew_00012883 lower eyebrows, head lifting wrinkles, insecure, speaks in a fearful tone
-samplenew_00063636 sad
-samplenew_00060699 lower the brow, and his tone sounds negative
-samplenew_00058124 angry
-samplenew_00034351 insecure, does not speak with any of the emotions listed
-samplenew_00070555 lower the brow, downward mouth curvature, and her tone sounds positive
-samplenew_00010671 brow lowerer, slight drooping of the mouth, and her tone sounds positive
-samplenew_00068729 slightly lower eyebrows, big smile, dimpler, and her tone sounds negative
-samplenew_00066881 lower the brow, speaks in a neutral tone
-samplenew_00036616 lower eyebrows, press the lips together, lips apart showing teeth, and his tone sounds angry
-samplenew_00067163 surprise
-samplenew_00048404 lower eyebrows, and his tone sounds natural
-samplenew_00051108 angry
-samplenew_00009272 happy
-samplenew_00033336 lower the brow, speaks in a normal tone
-samplenew_00019627 frowns furrowed, lid tightener, lift the chin, speaks in a fearful tone
-samplenew_00068511 happy
-samplenew_00030990 lower the brow, and his tone sounds negative
-samplenew_00040608 lower the brow, speaks in a normal tone
-samplenew_00034307 angry
-samplenew_00032867 brow lowerer, speaks with a fearful emotion
-samplenew_00051098 happy
-samplenew_00061907 tightening of eyelids, upper lip lift, does not speak with any of the emotions listed
-samplenew_00020249 happy
-samplenew_00057323 eyes narrowing, toothy smile, hollow on the face when smiling, speaks in a fearful manner
-samplenew_00033706 brow lowerer, lips forming an upward curve, speaks in a fearful tone
-samplenew_00057828 frowns furrowed, lid tightener, and his tone sounds negative
-samplenew_00021997 angry
-samplenew_00041469 angry
-samplenew_00033131 angry
-samplenew_00022514 brow lowerer, speaks in a fearful voice
-samplenew_00069019 lower eyebrows, speaks with a angry tone
-samplenew_00011361 slight frown, speaks in a normal tone
-samplenew_00023290 lower eyebrows, and his tone sounds negative
-samplenew_00053451 surprise
-samplenew_00030445 frowns furrowed, tightening of eyelids, tighten the lips,purse the lips, lips forming an upward curve, speaks in a normal tone
-samplenew_00040812 downturned lips, and her tone sounds negative
-samplenew_00038587 sad
-samplenew_00043654 brow lowerer, facial tightness, and her tone sounds natural
-samplenew_00050132 lower eyebrows, inner brow raiser, speaks with a cheerful voice
-sample_00006020 worried
-samplenew_00008135 wide-mouthed, does not speak with any of the emotions listed
-samplenew_00002276 happy
-samplenew_00007739 angry
-samplenew_00038895 frowns furrowed, speaks in a normal tone
-samplenew_00053424 brow lowerer, facial tightness, and his tone sounds natural
-samplenew_00038285 tense lips stretched, and his tone sounds natural
-samplenew_00057340 lower the brow, tightening of eyelids, lips apart showing teeth, speaks with a fearful tone
-samplenew_00044809 sad
-samplenew_00018244 lower the brow, does not speak with any of the emotions listed
-samplenew_00041509 brow lowerer, and his tone sounds negative
-samplenew_00060197 lower eyebrows, speaks with a fearful emotion
-samplenew_00043203 angry
-samplenew_00059751 angry
-samplenew_00006823 cheek raiser, big smile, hollow on the face when smiling, speaks with a fearful emotion
-samplenew_00049316 eyes narrowing, indentation when smiling, and her tone sounds negative
-samplenew_00000781 sad
-samplenew_00066457 brow lowerer, upper lid raiser, and his tone sounds negative
-samplenew_00044416 frowns furrowed, does not speak with any of the emotions listed
-samplenew_00066908 slight drooping of the mouth, and her tone sounds natural
-samplenew_00063878 angry
-samplenew_00017356 brow lowerer, speaks with a fearful emotion
-samplenew_00014380 happy
-sample_00004949 lower the brow, and her tone sounds negative
-samplenew_00043362 brow lowerer, speaks in a fearful tone
-samplenew_00023802 eyes narrowing, lip corner puller, does not speak with any of the emotions listed
-samplenew_00007789 frowns furrowed, chin held high, speaks with a fearful tone
-samplenew_00018240 lip corner puller, indentation when smiling, and her tone sounds natural
-samplenew_00067828 brow lowerer, lid tightener, tighten the lips,purse the lips, upper lip lift, speaks in a normal tone
-samplenew_00033738 happy
-samplenew_00069854 angry
-samplenew_00064923 smile, pleasure, lip corner puller, does not speak with any of the emotions listed
-samplenew_00003281 angry
-samplenew_00041325 show teeth, speaks with a fearful emotion
-samplenew_00065117 sad
-samplenew_00047949 angry
-samplenew_00067715 lower eyebrows, speaks in a fearful voice
-samplenew_00034870 angry
-samplenew_00057028 angry
-samplenew_00022956 indentation when smiling, and his tone sounds positive
-samplenew_00013762 downturned lips, and his tone sounds fearful
-samplenew_00015812 sad
-samplenew_00048985 sad
-samplenew_00041306 angry
-samplenew_00031209 sad
-samplenew_00010861 sad
-samplenew_00006108 sad
-samplenew_00036401 sad
-samplenew_00042714 lower the brow, lips apart showing teeth, speaks with a fearful tone
-samplenew_00023661 lower the brow, and his tone sounds negative
-samplenew_00034406 angry
-samplenew_00039096 sad
-samplenew_00038500 frowns furrowed, upper lid raiser, tightening of eyelids, does not speak with any of the emotions listed
-samplenew_00053527 sad
-samplenew_00066728 lower eyebrows, speaks with a fearful emotion
-samplenew_00070485 lower the brow, speaks in a normal tone
-samplenew_00032002 sad
-samplenew_00069120 sad
-samplenew_00014041 lower the brow, tightening of eyelids, upper lip raiser, lips forming an upward curve, speaks with a cheerful voice
-samplenew_00040636 lower the brow, lid tightener, lips forming an upward curve, speaks with a fearful emotion
-samplenew_00052904 sad
-samplenew_00035104 sad
-samplenew_00027369 angry
-samplenew_00057913 lower eyebrows, and her tone sounds natural
-samplenew_00013067 worried
-samplenew_00034474 frowns furrowed, does not speak with any of the emotions listed
-samplenew_00010608 surprise
-samplenew_00069054 happy
-samplenew_00019921 lower the brow, insecure, speaks with a fearful emotion
-samplenew_00027292 lower the brow, does not speak with any of the emotions listed
-samplenew_00041901 sad
-samplenew_00035956 slight decrease in eyebrows, show teeth, does not speak with any of the emotions listed
-samplenew_00069908 frowns furrowed, speaks in a fearful and sad tone
-samplenew_00012801 angry
-samplenew_00039852 happy
-samplenew_00003778 lower the brow, insecure, speaks in a fearful voice
-samplenew_00059657 lower the brow, slight frown, and his tone sounds natural
-samplenew_00033687 angry
-samplenew_00019398 raise upper eyelids, facial tightness, press the lips together, lips arching, speaks in a fearful voice
-samplenew_00034038 eyes narrowing, show teeth, indentation when smiling, speaks in a fearful voice
-samplenew_00039425 lips forming an upward curve, speaks with a fearful tone
-sample_00004223 cheek raiser, and his tone sounds positive
-samplenew_00000864 angry
-samplenew_00007987 toothy smile, does not speak with any of the emotions listed
-samplenew_00044896 angry
-samplenew_00022122 brow lowerer, lip corner depressor, speaks in a normal tone
-samplenew_00044409 tense lips stretched, speaks in a fearful tone
-samplenew_00039919 sad
-samplenew_00002504 lower eyebrows, facial tightness, speaks in a fearful tone
-samplenew_00027874 angry
-samplenew_00020127 lower eyebrows, speaks in a neutral tone
-samplenew_00007887 upper lid raiser, upper lip lift, and her tone sounds natural
-samplenew_00038488 worried
-samplenew_00058225 happy
-samplenew_00059147 angry
-samplenew_00055969 happy
-samplenew_00058504 happy
-sample_00003063 anxiously stretched lips, and his tone sounds positive
-samplenew_00046452 lower the brow, eyes widened, upper lip lift, chin raiser, does not speak with any of the emotions listed
-samplenew_00026826 slightly lower eyebrows, big smile, speaks in a fearful tone
-samplenew_00065022 angry
-samplenew_00022774 sad
-samplenew_00069641 sad
-samplenew_00056073 happy
-samplenew_00053493 sad
-samplenew_00054073 lower eyebrows, and his tone sounds negative
-samplenew_00009325 lips elongated, speaks in a normal tone
-samplenew_00004304 happy
-samplenew_00004699 sad
-samplenew_00001919 frowns furrowed, tightening of eyelids, does not speak with any of the emotions listed
-samplenew_00008195 sad
-samplenew_00047762 slight decrease in eyebrows, lip corner puller, and his tone sounds negative
-samplenew_00063013 frowns furrowed, upper lid raiser, lip tightener, upper lip raiser, speaks with a fearful voice
-samplenew_00033148 frowns furrowed, speaks in a neutral tone
-samplenew_00057116 angry
-sample_00003040 sad
-samplenew_00034603 happy
-samplenew_00046991 brow lowerer, facial tightness, lip tightener, upper lip raiser, speaks with a fearful tone
-samplenew_00029208 happy
-sample_00003026 brow lowerer, raise upper eyelids, speaks in a fearful tone
-samplenew_00041946 sad
-samplenew_00003370 slight frown, speaks in a normal tone
-samplenew_00036588 frowns furrowed, facial tightness, tighten the lips,purse the lips, speaks in a normal tone
-samplenew_00044793 angry
-samplenew_00013439 happy
-samplenew_00038115 raise upper eyelids, lid tightener, lift the chin, and his tone sounds negative
-samplenew_00038867 brow lowerer, lip tightener, and his tone sounds natural
-samplenew_00044629 frowns furrowed, raise upper eyelids, does not speak with any of the emotions listed
-samplenew_00031279 happy
-samplenew_00015437 inner brow raiser, insecure, does not speak with any of the emotions listed
-samplenew_00004786 angry
-samplenew_00028124 frown, downturned lips, speaks with a cheerful voice
-samplenew_00054050 sad
-samplenew_00020780 cheek dimple, and his tone sounds negative
-samplenew_00008271 sad
-samplenew_00047078 sad
-samplenew_00031517 lower the brow, facial tightness, lips apart showing teeth, and his tone sounds natural
-samplenew_00058401 sad
-samplenew_00041508 angry
-samplenew_00020872 downturned lips, speaks with a fearful emotion
-samplenew_00009064 brow lowerer, lift upper eyelids, lips arching, does not speak with any of the emotions listed
-samplenew_00013124 smile, pleasure, indentation when smiling, speaks in a neutral tone
-sample_00003711 inner brow raiser, and her tone sounds negative
-samplenew_00048822 angry
-samplenew_00012623 worried
-samplenew_00017949 lower eyebrows, lift the chin, does not speak with any of the emotions listed
-samplenew_00063078 sad
-samplenew_00006127 frowns furrowed, facial tightness, upper lip lift, chin raiser, speaks with a fearful emotion
-samplenew_00050584 slight drooping of the mouth, does not speak with any of the emotions listed
-samplenew_00038890 sad
-samplenew_00008016 happy
-samplenew_00059624 sad
-samplenew_00067142 lower eyebrows, tightening of eyelids, curl the lips upwards, speaks in a normal tone
-samplenew_00054552 angry
-samplenew_00050119 eyes narrowing, big smile, cheek dimple, and her tone sounds natural
-samplenew_00008723 happy
-samplenew_00062971 sad
-samplenew_00037760 happy
-samplenew_00063302 sad
-samplenew_00058676 angry
-samplenew_00068121 angry
-samplenew_00010725 angry
-samplenew_00013111 sad
-samplenew_00003076 lower eyebrows, slight drooping of the mouth, speaks in a normal tone
-samplenew_00020166 angry
-samplenew_00048746 angry
-samplenew_00031575 surprise
-samplenew_00003311 frowns furrowed, does not speak with any of the emotions listed
-samplenew_00024541 sad
-samplenew_00017661 happy
-samplenew_00012828 cheek raiser, show teeth, indentation when smiling, does not speak with any of the emotions listed
-samplenew_00061695 sad
-samplenew_00056769 happy
-samplenew_00029390 cheek dimple, and his tone sounds negative
-sample_00005471 lower eyebrows, speaks in a fearful tone
-samplenew_00065095 angry
-samplenew_00064025 anxiously stretched lips, speaks in a normal tone
-samplenew_00059831 upper lid raiser, speaks in a fearful tone
-samplenew_00050705 angry
-samplenew_00047090 sad
-samplenew_00049601 happy
-samplenew_00026440 happy
-samplenew_00049110 happy
-samplenew_00048442 frowns furrowed, lips arching, speaks in a neutral tone
-samplenew_00066221 anxiously stretched lips, and her tone sounds positive
-samplenew_00029232 cheek dimple, and his tone sounds natural
-samplenew_00021889 lower the brow, speaks in a normal tone
-samplenew_00038105 sad
-samplenew_00014459 happy
-samplenew_00040846 angry
-sample_00002227 cheek raiser, toothy smile, and his tone sounds negative
-samplenew_00035883 tightening of eyelids, curl the lips upwards, lift the chin, speaks with a fearful emotion
-samplenew_00016074 frowns furrowed, lift the chin, speaks in a normal tone
-samplenew_00019793 insecure, speaks with a fearful tone
-samplenew_00040247 sad
-samplenew_00032016 surprise
-samplenew_00063940 angry
-samplenew_00065510 angry
-samplenew_00059638 pupil enlargement, chin raiser, speaks in a normal tone
-samplenew_00048925 frowns furrowed, head lifting wrinkles, downward mouth curvature, and her tone sounds negative
-samplenew_00025283 frowns furrowed, curl the lips upwards, does not speak with any of the emotions listed
-samplenew_00042701 frowns furrowed, lift upper eyelids, curl the lips upwards, lips forming an upward curve, and his tone sounds negative
-samplenew_00051668 frowns furrowed, lid tightener, chin raiser, and his tone sounds positive
-samplenew_00010324 sad
-samplenew_00046112 angry
-samplenew_00057736 lower eyebrows, lower lip depressor, and his tone sounds negative
-samplenew_00064134 frowns furrowed, tighten the lips,purse the lips, curl the lips upwards, lips arching, does not speak with any of the emotions listed
-samplenew_00059804 sad
-samplenew_00004368 head lifting wrinkles, slight frown, and her tone sounds natural
-samplenew_00041971 brow lowerer, and his tone sounds natural
-samplenew_00024276 lower the brow, and his tone sounds natural
-samplenew_00031146 angry
-samplenew_00019751 frowns furrowed, facial tightness, speaks in a fearful tone
-samplenew_00045150 happy
-samplenew_00009450 sad
-samplenew_00057537 angry
-samplenew_00046791 tightening of eyelids, lips apart showing teeth, lips forming an upward curve, and his tone sounds positive
-samplenew_00055177 sad
-samplenew_00018908 sad
-samplenew_00060763 eyes narrowing, toothy smile, indentation when smiling, and her tone sounds positive
-samplenew_00005528 angry
-samplenew_00057077 angry
-samplenew_00040611 angry
-samplenew_00016941 sad
-samplenew_00001586 brow lowerer, downward mouth curvature, does not speak with any of the emotions listed
-samplenew_00053022 angry
-samplenew_00043840 angry
-samplenew_00012333 sad
-samplenew_00036867 happy
-samplenew_00041760 sad
-samplenew_00005876 angry
-samplenew_00004315 angry
-samplenew_00008462 brow lowerer, upper lip lift, chin held high, and his tone sounds positive
-samplenew_00053277 sad
-samplenew_00060418 lip stretcher, speaks in a fearful tone
-samplenew_00024350 angry
-samplenew_00013390 angry
-samplenew_00019015 angry
-samplenew_00048972 lower the brow, does not speak with any of the emotions listed
-samplenew_00004289 lower the brow, lift the chin, speaks with a fearful emotion
-samplenew_00019789 lower the brow, and his tone sounds negative
-samplenew_00033342 lower the brow, inner brow raiser, downward mouth curvature, and his tone sounds negative
-samplenew_00055270 raise upper eyelids, jaw drop, does not speak with any of the emotions listed
-samplenew_00002410 lift upper eyelids, lift the chin, speaks in a normal tone
-samplenew_00056920 frowns furrowed, speaks with a fearful tone
-samplenew_00021644 lower the brow, facial tightness, upper lip raiser, and his tone sounds natural
-samplenew_00054035 angry
-samplenew_00031642 lower eyebrows, lips arching, does not speak with any of the emotions listed
-samplenew_00009568 sad
-samplenew_00067231 happy
-samplenew_00042874 angry
-samplenew_00008843 angry
-samplenew_00009994 eyes narrowing, and his tone sounds natural
-samplenew_00043949 cheek raiser, grinning, dimpler, speaks in a normal tone
-samplenew_00020593 cheek raiser, lip corner puller, speaks with a fearful tone
-samplenew_00058702 frowns furrowed, slight drooping of the mouth, speaks in a normal tone
-samplenew_00053875 sad
-samplenew_00013165 frowns furrowed, slight drooping of the mouth, does not speak with any of the emotions listed
-sample_00001358 angry
-samplenew_00038356 sad
-samplenew_00053638 lower eyebrows, tightening of eyelids, upper lip raiser, speaks with a neutral tone
-samplenew_00070786 angry
-samplenew_00014000 tightening of eyelids, upper lip raiser, speaks with a angry tone
-samplenew_00061850 lower the brow, lips apart showing teeth, and his tone sounds negative
-sample_00001820 happy
-samplenew_00025423 lip corner puller, indentation when smiling, speaks with a fearful emotion
-samplenew_00041919 worried
-samplenew_00044198 smile, pleasure, toothy smile, and his tone sounds positive
-samplenew_00070174 lower the brow, and her tone sounds fearful
-samplenew_00037757 sad
-samplenew_00021918 sad
-samplenew_00056497 angry
-samplenew_00024294 sad
-samplenew_00046920 brow lowerer, facial tightness, lips arching, speaks with a fearful emotion
-samplenew_00019702 angry
-samplenew_00048699 eyes widened, upper lip lift, speaks in a neutral tone
-samplenew_00070616 sad
-samplenew_00040170 brow lowerer, tightening of eyelids, and his tone sounds negative
-samplenew_00009054 angry
-samplenew_00063457 frowns furrowed, lift upper eyelids, and his tone sounds positive
-samplenew_00003707 angry
-samplenew_00003940 happy
-samplenew_00054418 cheek raiser, big smile, cheek dimple, and his tone sounds positive
-samplenew_00028484 brow lowerer, facial tightness, chin raiser, and his tone sounds negative
-samplenew_00028773 frowns furrowed, lift upper eyelids, tightening of eyelids, speaks in a normal tone
-samplenew_00063027 sad
-samplenew_00028891 lower eyebrows, inner brow raiser, slight drooping of the mouth, does not speak with any of the emotions listed
-samplenew_00051482 sad
-samplenew_00016133 sad
-sample_00003859 lower the brow, speaks in a angry voice
-samplenew_00054245 frowns furrowed, does not speak with any of the emotions listed
-samplenew_00034821 lower the brow, upper lip raiser, lips arching, and his tone sounds natural
-samplenew_00055046 brow lowerer, inner brow raiser, downturned corners of the mouth, and his tone sounds negative
-samplenew_00032446 angry
-samplenew_00043018 lower eyebrows, and her tone sounds negative
-samplenew_00023395 smile, pleasure, hollow on the face when smiling, and his tone sounds natural
-samplenew_00009377 frowns furrowed, speaks with a fearful tone
-samplenew_00005231 lower eyebrows, lip corner depressor, slight frown, and her tone sounds natural
-samplenew_00049930 lower the brow, does not speak with any of the emotions listed
-samplenew_00012756 happy
-samplenew_00035809 happy
-samplenew_00070470 angry
-samplenew_00012372 brow lowerer, downward mouth curvature, speaks in a normal tone
-samplenew_00037525 eyes narrowing, big smile, indentation when smiling, and his tone sounds negative
-samplenew_00068978 indentation when smiling, and her tone sounds negative
-samplenew_00023725 sad
-samplenew_00004522 surprise
-samplenew_00060623 surprise
-sample_00000979 grinning, and his tone sounds positive
-samplenew_00032628 lower eyebrows, lid tightener, curl the lips upwards, chin raiser, and his tone sounds natural
-sample_00005418 angry
-samplenew_00065772 brow lowerer, tightening of eyelids, upper lip raiser, and his tone sounds natural
-samplenew_00016962 sad
-samplenew_00049154 happy
-samplenew_00060094 slightly lower eyebrows, toothy smile, indentation when smiling, does not speak with any of the emotions listed
-samplenew_00021664 sad
-samplenew_00021723 lower the brow, speaks with a fearful emotion
-samplenew_00007409 brow lowerer, lid tightener, lips forming an upward curve, speaks in a fearful voice
-samplenew_00033670 smile, pleasure, toothy smile, dimpler, does not speak with any of the emotions listed
-samplenew_00046385 angry
-samplenew_00033859 angry
-samplenew_00064294 cheek raiser, grinning, cheek dimple, speaks in a happy voice
-samplenew_00010103 sad
-samplenew_00041482 nostrils enlarge, does not speak with any of the emotions listed
-samplenew_00004594 angry
-samplenew_00036310 angry
-samplenew_00021350 angry
-samplenew_00027280 angry
-samplenew_00018125 angry
-samplenew_00005054 angry
-samplenew_00016888 slight decrease in eyebrows, lip corner puller, and his tone sounds positive
-samplenew_00020898 happy
-samplenew_00042711 sad
-samplenew_00059936 tense lips stretched, speaks with a neutral tone
-samplenew_00018517 angry
-samplenew_00024218 frowns furrowed, curl the lips upwards, chin raiser, speaks in a neutral tone
-samplenew_00000869 slightly lower eyebrows, big smile, cheek dimple, speaks in a neutral tone
-samplenew_00015223 angry
-samplenew_00051596 worried
-samplenew_00022488 worried
-samplenew_00037676 happy
-samplenew_00035327 happy
-samplenew_00053792 sad
-sample_00000490 frowns furrowed, it sounds like this person is angry in the audio
-samplenew_00063460 insecure, speaks in a normal tone
-samplenew_00050816 sad
-samplenew_00067625 lower the brow, does not speak with any of the emotions listed
-samplenew_00056978 frowns furrowed, insecure, and her tone sounds natural
-samplenew_00047121 smile, pleasure, toothy smile, hollow on the face when smiling, speaks in a normal tone
-samplenew_00054204 tighten the lips,purse the lips, does not speak with any of the emotions listed
-samplenew_00041524 lip suck, and his tone sounds negative
-samplenew_00035804 sad
-samplenew_00007581 sad
-samplenew_00020417 lower eyebrows, speaks in a normal tone
-samplenew_00054885 upper lid raiser, lips apart showing teeth, does not speak with any of the emotions listed
-samplenew_00026827 sad
-samplenew_00070599 happy
-samplenew_00007515 angry
-sample_00004822 slight decrease in eyebrows, big smile, indentation when smiling, speaks in a normal tone
-samplenew_00007102 angry
-samplenew_00042156 dimpler, does not speak with any of the emotions listed
-samplenew_00053081 brow lowerer, upper lid raiser, chin held high, and his tone sounds angry
-samplenew_00037950 sad
-samplenew_00026765 upper lid raiser, speaks in a normal tone
-samplenew_00043200 cheek raiser, lip corner puller, and her tone sounds negative
-samplenew_00041521 sad
-samplenew_00002362 sad
-samplenew_00041361 angry
-samplenew_00036361 lip stretcher, speaks in a fearful tone
-samplenew_00070198 eyes narrowing, indentation when smiling, and his tone sounds natural
-samplenew_00015436 lower the brow, speaks in a fearful tone
-samplenew_00036598 lid tightener, speaks in a normal tone
-samplenew_00033089 angry
-samplenew_00027297 angry
-samplenew_00036943 upper lip lift, lips forming an upward curve, speaks in a neutral tone
-samplenew_00058810 slightly lower eyebrows, speaks in a normal tone
-samplenew_00021794 frowns furrowed, lips apart showing teeth, speaks in a neutral tone
-samplenew_00010572 eyes widened, facial tightness, speaks in a normal tone
-sample_00000624 happy
-samplenew_00012616 happy
-samplenew_00034616 eyes narrowing, big smile, indentation when smiling, and his tone sounds positive
-samplenew_00023632 sad
-samplenew_00041935 slight drooping of the mouth, speaks with a fearful emotion
-samplenew_00030175 lower eyebrows, does not speak with any of the emotions listed
-samplenew_00048448 lower eyebrows, downturned lips, and her tone sounds negative
-samplenew_00045602 angry
-samplenew_00018446 slight frown, and his tone sounds positive
-ne
-samplenew_00029925 sad
-samplenew_00004016 slight decrease in eyebrows, show teeth, and her tone sounds natural
-samplenew_00006612 lower eyebrows, tightening of eyelids, curl the lips upwards, speaks in a normal tone
-samplenew_00038742 surprise
-samplenew_00030375 frowns furrowed, tightening of eyelids, does not speak with any of the emotions listed
-samplenew_00038522 frowns furrowed, lift upper eyelids, upper lip lift, chin held high, and her tone sounds natural
-rful emotion
+samplenew_00040303 
+samplenew_00022324 
+samplenew_00048419 
+samplenew_00050868 
+samplenew_00019541 
+samplenew_00009717 
+samplenew_00038624 
+samplenew_00060555 
+samplenew_00004475 
+samplenew_00068320 
+samplenew_00041854 
+samplenew_00048316 
+samplenew_00052594 
+samplenew_00069635 
+samplenew_00029877 
+samplenew_00025144 
+samplenew_00006657 
+samplenew_00025836 
+samplenew_00024647 
+samplenew_00031917 
+samplenew_00044270 
+sample_00002501 
+samplenew_00013566 
+samplenew_00006788 
+samplenew_00057300 
+samplenew_00063632 
+samplenew_00019202 
+samplenew_00027739 
+samplenew_00062704 
+samplenew_00025153 
+samplenew_00027148 
+sample_00001735 
+samplenew_00040382 
+sample_00005871 
+samplenew_00052182 
+samplenew_00029060 
+samplenew_00019805 
+samplenew_00029116 
+samplenew_00019387 
+samplenew_00026035 
+samplenew_00008637 
+samplenew_00035549 
+samplenew_00043570 
+samplenew_00058394 
+samplenew_00035884 
+samplenew_00067380 
+samplenew_00057855 
+samplenew_00041277 
+samplenew_00031126 
+samplenew_00028891 
+samplenew_00015807 
+samplenew_00016444 
+samplenew_00025179 
+samplenew_00011733 
+samplenew_00032446 
+samplenew_00069608 
+samplenew_00034844 
+samplenew_00023782 
+samplenew_00028226 
+sample_00001369 
+samplenew_00039907 
+samplenew_00036198 
+samplenew_00012007 
+samplenew_00069167 
+samplenew_00034946 
+samplenew_00048650 
+samplenew_00055105 
+samplenew_00048732 
+sample_00003922 
+samplenew_00014223 
+samplenew_00011088 
+samplenew_00015736 
+samplenew_00026974 
+samplenew_00020939 
+samplenew_00047648 
+samplenew_00002530 
+samplenew_00028643 
+samplenew_00070085 
+samplenew_00001993 
+samplenew_00020342 
+samplenew_00041094 
+samplenew_00056616 
+samplenew_00038497 
+samplenew_00048399 
+samplenew_00034518 
+samplenew_00033366 
+samplenew_00034354 
+samplenew_00008329 
+samplenew_00002367 
+samplenew_00067805 
+samplenew_00000124 
+samplenew_00025986 
+samplenew_00031106 
+samplenew_00028723 
+samplenew_00070624 
+samplenew_00047080 
+samplenew_00030159 
+samplenew_00002181 
+samplenew_00053460 
+samplenew_00025781 
+samplenew_00044334 
+samplenew_00000756 
+samplenew_00026892 
+samplenew_00015200 
+samplenew_00020555 
+samplenew_00025817 
+sample_00002345 
+samplenew_00037767 
+samplenew_00013160 
+samplenew_00064649 
+samplenew_00053317 
+samplenew_00048671 
+samplenew_00030470 
+samplenew_00058204 
+samplenew_00036444 
+samplenew_00042113 
+samplenew_00049306 
+samplenew_00013022 
+samplenew_00069313 
+sample_00001505 
+samplenew_00035666 
+samplenew_00019956 
+samplenew_00050375 
+samplenew_00026436 
+samplenew_00059181 
+samplenew_00000011 
+samplenew_00011976 
+samplenew_00068787 
+samplenew_00014131 
+samplenew_00025481 
+samplenew_00005904 
+samplenew_00063460 
+samplenew_00055145 
+samplenew_00023942 
+samplenew_00010850 
+samplenew_00004032 
+sample_00005338 
+samplenew_00035880 
+samplenew_00028763 
+samplenew_00034292 
+samplenew_00059911 
+samplenew_00066913 
+samplenew_00016334 
+samplenew_00009800 
+samplenew_00029230 
+samplenew_00021479 
+samplenew_00051070 
+samplenew_00039808 
+sample_00005812 
+samplenew_00065019 
+samplenew_00051653 
+samplenew_00019666 
+samplenew_00068383 
+samplenew_00034471 
+samplenew_00027266 
+samplenew_00018003 
+samplenew_00029596 
+samplenew_00060428 
+samplenew_00018836 
+samplenew_00063036 
+samplenew_00035416 
+samplenew_00056094 
+samplenew_00040328 
+samplenew_00002267 
+samplenew_00033308 
+samplenew_00017805 
+samplenew_00020891 
+samplenew_00024666 
+samplenew_00048710 
+samplenew_00019495 
+sample_00005921 
+samplenew_00018529 
+samplenew_00063792 
+samplenew_00031445 
+samplenew_00022413 
+samplenew_00004605 
+samplenew_00030490 
+samplenew_00052006 
+samplenew_00012856 
+samplenew_00043955 
+samplenew_00031144 
+samplenew_00047632 
+samplenew_00008007 
+samplenew_00045360 
+samplenew_00023320 
+samplenew_00065131 
+samplenew_00018685 
+samplenew_00063213 
+samplenew_00065641 
+samplenew_00056684 
+samplenew_00022823 
+samplenew_00049625 
+samplenew_00044262 
+samplenew_00008022 
+samplenew_00047147 
+samplenew_00003326 
+samplenew_00051793 
+samplenew_00039800 
+samplenew_00012353 
+samplenew_00031017 
+samplenew_00015631 
+samplenew_00067350 
+samplenew_00019705 
+samplenew_00062568 
+samplenew_00039443 
+samplenew_00006580 
+samplenew_00052471 
+samplenew_00050770 
+sample_00003907 
+samplenew_00040847 
+samplenew_00045492 
+samplenew_00021941 
+samplenew_00018332 
+samplenew_00016007 
+samplenew_00024876 
+samplenew_00040865 
+samplenew_00019340 
+samplenew_00064512 
+samplenew_00033514 
+samplenew_00041801 
+samplenew_00060656 
+samplenew_00008981 
+samplenew_00066357 
+samplenew_00003189 
+samplenew_00044572 
+samplenew_00050572 
+samplenew_00042742 
+samplenew_00044342 
+samplenew_00028765 
+samplenew_00041559 
+samplenew_00064001 
+samplenew_00069182 
+samplenew_00040085 
+samplenew_00068059 
+samplenew_00070477 
+samplenew_00067147 
+samplenew_00041973 
+samplenew_00027342 
+samplenew_00027095 
+samplenew_00032819 
+samplenew_00004884 
+samplenew_00070421 
+samplenew_00050716 
+samplenew_00007007 
+samplenew_00038184 
+samplenew_00015378 
+samplenew_00025257 
+samplenew_00032326 
+samplenew_00007035 
+samplenew_00032475 
+samplenew_00008211 
+samplenew_00005887 
+samplenew_00043749 
+samplenew_00058375 
+samplenew_00055417 
+samplenew_00038094 
+samplenew_00013119 
+samplenew_00009854 
+samplenew_00071102 
+samplenew_00041657 
+samplenew_00006807 
+samplenew_00067925 
+samplenew_00037920 
+samplenew_00042188 
+samplenew_00032126 
+samplenew_00017183 
+samplenew_00058745 
+samplenew_00017580 
+samplenew_00016808 
+samplenew_00020761 
+samplenew_00056412 
+samplenew_00028069 
+samplenew_00070388 
+samplenew_00026407 
+samplenew_00057281 
+samplenew_00012167 
+sample_00000046 
+samplenew_00050411 
+samplenew_00062197 
+samplenew_00032189 
+samplenew_00054863 
+samplenew_00025649 
+samplenew_00025176 
+samplenew_00068565 
+samplenew_00021064 
+samplenew_00067096 
+samplenew_00062454 
+samplenew_00039064 
+samplenew_00051163 
+samplenew_00055285 
+samplenew_00036028 
+samplenew_00004665 
+samplenew_00033359 
+samplenew_00012311 
+samplenew_00012934 
+samplenew_00040046 
+samplenew_00032364 
+samplenew_00051105 
+samplenew_00029226 
+samplenew_00033768 
+samplenew_00062480 
+samplenew_00043597 
+samplenew_00004676 
+samplenew_00017676 
+samplenew_00067057 
+samplenew_00052756 
+samplenew_00004203 
+samplenew_00012236 
+samplenew_00014153 
+samplenew_00048167 
+sample_00000988 
+samplenew_00034118 
+samplenew_00030974 
+samplenew_00032992 
+samplenew_00049931 
+samplenew_00015716 
+samplenew_00069202 
+samplenew_00054508 
+samplenew_00027341 
+samplenew_00004960 
+samplenew_00038661 
+samplenew_00020179 
+samplenew_00061174 
+samplenew_00003973 
+samplenew_00026369 
+samplenew_00021833 
+samplenew_00006456 
+samplenew_00022073 
+samplenew_00034997 
+samplenew_00024903 
+samplenew_00057649 
+sample_00002691 
+samplenew_00040022 
+samplenew_00034267 
+samplenew_00027245 
+samplenew_00056553 
+samplenew_00037414 
+samplenew_00018453 
+samplenew_00026764 
+samplenew_00050307 
+samplenew_00064066 
+samplenew_00058254 
+samplenew_00064314 
+samplenew_00003543 
+samplenew_00034867 
+samplenew_00002353 
+samplenew_00015501 
+samplenew_00022998 
+samplenew_00066582 
+samplenew_00069874 
+samplenew_00005079 
+samplenew_00027249 
+samplenew_00017023 
+samplenew_00062860 
+samplenew_00024995 
+samplenew_00022446 
+samplenew_00050450 
+samplenew_00043303 
+samplenew_00037866 
+samplenew_00052340 
+sample_00005242 
+samplenew_00010108 
+samplenew_00061695 
+samplenew_00025641 
+sample_00002043 
+samplenew_00039383 
+samplenew_00034995 
+samplenew_00002639 
+samplenew_00006544 
+samplenew_00015058 
+samplenew_00050012 
+samplenew_00028104 
+samplenew_00060414 
+samplenew_00020275 
+samplenew_00064538 
+samplenew_00040424 
+samplenew_00043852 
+sample_00003504 
+samplenew_00023992 
+samplenew_00012585 
+samplenew_00036731 
+samplenew_00018130 
+samplenew_00000805 
+samplenew_00006515 
+samplenew_00061451 
+samplenew_00047276 
+samplenew_00033669 
+samplenew_00012578 
+samplenew_00064911 
+samplenew_00001491 
+samplenew_00067289 
+samplenew_00037143 
+samplenew_00000583 
+samplenew_00021473 
+samplenew_00028737 
+samplenew_00022099 
+samplenew_00038276 
+samplenew_00031149 
+sample_00000945 
+sample_00001041 
+samplenew_00004038 
+samplenew_00018867 
+samplenew_00059819 
+samplenew_00064856 
+samplenew_00058026 
+samplenew_00031815 
+samplenew_00023980 
+sample_00004315 
+samplenew_00004574 
+samplenew_00054675 
+samplenew_00004958 
+samplenew_00009610 
+samplenew_00002700 
+samplenew_00019054 
+samplenew_00058918 
+samplenew_00013401 
+sample_00005197 
+samplenew_00070708 
+sample_00001689 
+samplenew_00013495 
+samplenew_00041697 
+sample_00001989 
+samplenew_00001896 
+samplenew_00059386 
+samplenew_00007057 
+samplenew_00006082 
+samplenew_00046687 
+samplenew_00034183 
+sample_00005432 
+sample_00002734 
+samplenew_00032619 
+samplenew_00070499 
+samplenew_00008043 
+samplenew_00023819 
+samplenew_00052455 
+samplenew_00041722 
+samplenew_00031483 
+samplenew_00052984 
+samplenew_00056056 
+samplenew_00067390 
+samplenew_00029511 
+samplenew_00007526 
+samplenew_00059250 
+samplenew_00020667 
+samplenew_00027234 
+samplenew_00024639 
+samplenew_00028125 
+samplenew_00008685 
+samplenew_00045189 
+samplenew_00052244 
+samplenew_00047810 
+samplenew_00046658 
+samplenew_00044609 
+sample_00004009 
+samplenew_00035441 
+samplenew_00004672 
+samplenew_00028144 
+samplenew_00055278 
+samplenew_00004186 
+samplenew_00030727 
+samplenew_00027039 
+samplenew_00030540 
+samplenew_00011050 
+samplenew_00014103 
+samplenew_00021412 
+samplenew_00051748 
+samplenew_00018761 
+samplenew_00032397 
+samplenew_00020882 
+samplenew_00016412 
+samplenew_00028100 
+samplenew_00009504 
+samplenew_00001979 
+samplenew_00061034 
+sample_00006634 
+samplenew_00013818 
+samplenew_00022330 
+samplenew_00032666 
+sample_00005205 
+samplenew_00000434 
+samplenew_00012052 
+samplenew_00043241 
+samplenew_00001197 
+samplenew_00002958 
+samplenew_00059354 
+samplenew_00017325 
+samplenew_00062273 
+samplenew_00017052 
+samplenew_00003721 
+samplenew_00006667 
+samplenew_00036107 
+samplenew_00024375 
+samplenew_00045298 
+samplenew_00052649 
+samplenew_00027604 
+samplenew_00002194 
+samplenew_00033863 
+samplenew_00056140 
+samplenew_00005994 
+samplenew_00028297 
+samplenew_00012409 
+samplenew_00070046 
+samplenew_00036328 
+samplenew_00017505 
+samplenew_00045009 
+samplenew_00003719 
+samplenew_00057679 
+samplenew_00030219 
+samplenew_00065532 
+samplenew_00018178 
+samplenew_00025863 
+samplenew_00027431 
+samplenew_00057502 
+samplenew_00055955 
+samplenew_00028389 
+samplenew_00055940 
+samplenew_00001448 
+samplenew_00029997 
+samplenew_00049169 
+samplenew_00036889 
+samplenew_00063919 
+samplenew_00061045 
+sample_00000054 
+samplenew_00062707 
+samplenew_00057836 
+samplenew_00067132 
+samplenew_00042359 
+samplenew_00007181 
+samplenew_00035093 
+samplenew_00011152 
+samplenew_00066795 
+samplenew_00012588 
+samplenew_00056197 
+samplenew_00009082 
+samplenew_00009352 
+samplenew_00050872 
+samplenew_00011378 
+samplenew_00022580 
+samplenew_00065756 
+samplenew_00052188 
+samplenew_00020323 
+samplenew_00055762 
+samplenew_00009606 
+samplenew_00029418 
+samplenew_00054952 
+samplenew_00012445 
+samplenew_00059370 
+samplenew_00040118 
+samplenew_00062024 
+samplenew_00039431 
+samplenew_00045861 
+samplenew_00028846 
+samplenew_00039015 
+samplenew_00066006 
+samplenew_00006328 
+samplenew_00040122 
+samplenew_00015767 
+sample_00005729 
+samplenew_00067311 
+samplenew_00009035 
+samplenew_00056052 
+samplenew_00051767 
+samplenew_00002789 
+samplenew_00046813 
+samplenew_00008011 
+samplenew_00028231 
+sample_00001032 
+samplenew_00030658 
+samplenew_00065363 
+samplenew_00041410 
+samplenew_00040824 
+samplenew_00060179 
+samplenew_00052298 
+samplenew_00027718 
+samplenew_00049207 
+samplenew_00008194 
+samplenew_00000352 
+samplenew_00067936 
+samplenew_00028294 
+samplenew_00064455 
+samplenew_00061968 
+samplenew_00067116 
+samplenew_00032971 
+samplenew_00009356 
+samplenew_00026044 
+samplenew_00035992 
+samplenew_00069306 
+samplenew_00068285 
+samplenew_00052420 
+samplenew_00037529 
+samplenew_00051447 
+samplenew_00063131 
+samplenew_00054630 
+samplenew_00066799 
+samplenew_00025075 
+samplenew_00031745 
+samplenew_00061457 
+samplenew_00006946 
+samplenew_00016331 
+samplenew_00007482 
+samplenew_00067253 
+samplenew_00022891 
+samplenew_00016288 
+samplenew_00002628 
+samplenew_00043321 
+samplenew_00021959 
+samplenew_00036812 
+samplenew_00061862 
+samplenew_00025537 
+samplenew_00007821 
+samplenew_00019649 
+samplenew_00014383 
+samplenew_00066194 
+samplenew_00051442 
+samplenew_00002492 
+samplenew_00040532 
+samplenew_00001818 
+samplenew_00016771 
+samplenew_00050760 
+samplenew_00061309 
+samplenew_00030189 
+sample_00000707 
+samplenew_00015008 
+samplenew_00032772 
+samplenew_00008768 
+samplenew_00021040 
+samplenew_00053013 
+samplenew_00017197 
+samplenew_00019427 
+samplenew_00053339 
+samplenew_00034334 
+sample_00006790 
+samplenew_00053431 
+samplenew_00019444 
+samplenew_00069333 
+samplenew_00055992 
+samplenew_00059809 
+samplenew_00030801 
+samplenew_00022454 
+samplenew_00058366 
+samplenew_00004589 
+samplenew_00023890 
+samplenew_00005729 
+samplenew_00043858 
+samplenew_00058272 
+samplenew_00055593 
+samplenew_00004523 
+samplenew_00042502 
+samplenew_00062396 
+samplenew_00006122 
+samplenew_00021417 
+samplenew_00034852 
+samplenew_00002368 
+samplenew_00034081 
+samplenew_00030722 
+samplenew_00018610 
+samplenew_00025045 
+samplenew_00010694 
+samplenew_00033984 
+samplenew_00051690 
+samplenew_00002573 
+samplenew_00034436 
+samplenew_00054973 
+samplenew_00026837 
+samplenew_00005369 
+samplenew_00001156 
+samplenew_00003052 
+samplenew_00046317 
+samplenew_00018612 
+samplenew_00013226 
+samplenew_00029928 
+samplenew_00056958 
+samplenew_00058034 
+samplenew_00044757 
+samplenew_00054309 
+samplenew_00068674 
+samplenew_00027818 
+samplenew_00027668 
+samplenew_00041526 
+samplenew_00065788 
+samplenew_00065298 
+samplenew_00004899 
+samplenew_00024016 
+samplenew_00014325 
+samplenew_00014130 
+samplenew_00037097 
+sample_00002412 
+samplenew_00033646 
+samplenew_00050010 
+samplenew_00066241 
+sample_00003507 
+samplenew_00020001 
+samplenew_00041169 
+samplenew_00035924 
+samplenew_00068641 
+samplenew_00003165 
+samplenew_00032793 
+samplenew_00012865 
+samplenew_00012826 
+samplenew_00058656 
+samplenew_00035862 
+samplenew_00069876 
+samplenew_00023662 
+samplenew_00016573 
+samplenew_00001752 
+samplenew_00049021 
+samplenew_00014800 
+samplenew_00016821 
+samplenew_00037079 
+samplenew_00054994 
+samplenew_00019074 
+samplenew_00053352 
+samplenew_00007825 
+samplenew_00000230 
+samplenew_00011988 
+samplenew_00002828 
+samplenew_00034114 
+samplenew_00060203 
+samplenew_00051460 
+samplenew_00062658 
+samplenew_00001452 
+samplenew_00010176 
+samplenew_00037293 
+samplenew_00029898 
+samplenew_00042630 
+samplenew_00024659 
+samplenew_00007674 
+samplenew_00042900 
+samplenew_00028979 
+samplenew_00052890 
+samplenew_00064566 
+samplenew_00057041 
+samplenew_00047973 
+samplenew_00070042 
+samplenew_00011513 
+samplenew_00025214 
+samplenew_00013383 
+samplenew_00013646 
+samplenew_00028307 
+samplenew_00056451 
+samplenew_00017336 
+samplenew_00062548 
+samplenew_00011578 
+samplenew_00045379 
+samplenew_00053116 
+samplenew_00023792 
+samplenew_00027521 
+samplenew_00057070 
+samplenew_00040883 
+samplenew_00062630 
+samplenew_00006451 
+samplenew_00009218 
+samplenew_00014304 
+samplenew_00018660 
+samplenew_00006855 
+samplenew_00063284 
+samplenew_00036991 
+samplenew_00034955 
+samplenew_00047718 
+samplenew_00025474 
+samplenew_00017380 
+samplenew_00015603 
+samplenew_00024661 
+samplenew_00005019 
+samplenew_00026498 
+samplenew_00009792 
+samplenew_00000079 
+samplenew_00061927 
+samplenew_00043384 
+samplenew_00003985 
+samplenew_00059806 
+samplenew_00038678 
+samplenew_00050439 
+samplenew_00027216 
+samplenew_00035982 
+samplenew_00065842 
+samplenew_00041606 
+samplenew_00069160 
+samplenew_00010207 
+samplenew_00048742 
+samplenew_00001901 
+samplenew_00069022 
+samplenew_00031532 
+samplenew_00021623 
+samplenew_00034095 
+samplenew_00052823 
+samplenew_00031524 
+samplenew_00066059 
+samplenew_00019429 
+samplenew_00031641 
+samplenew_00051012 
+samplenew_00036070 
+samplenew_00061683 
+samplenew_00036156 
+samplenew_00039624 
+samplenew_00046489 
+samplenew_00032239 
+samplenew_00007718 
+samplenew_00037321 
+samplenew_00064726 
+samplenew_00013295 
+samplenew_00016232 
+samplenew_00058644 
+samplenew_00001021 
+samplenew_00000523 
+samplenew_00052362 
+samplenew_00056513 
+samplenew_00018548 
+sample_00000921 
+samplenew_00069997 
+samplenew_00040012 
+samplenew_00035906 
+samplenew_00004954 
+samplenew_00012768 
+sample_00000768 
+samplenew_00055089 
+samplenew_00036240 
+samplenew_00064210 
+samplenew_00037403 
+samplenew_00009820 
+sample_00005202 
+samplenew_00063279 
+samplenew_00003837 
+samplenew_00032909 
+samplenew_00021885 
+samplenew_00063173 
+samplenew_00059152 
+samplenew_00013268 
+samplenew_00053507 
+samplenew_00044259 
+samplenew_00060126 
+samplenew_00010345 
+samplenew_00054552 
+samplenew_00055485 
+samplenew_00054071 
+samplenew_00067115 
+samplenew_00010657 
+samplenew_00020574 
+samplenew_00056952 
+sample_00006240 
+samplenew_00057449 
+samplenew_00035865 
+samplenew_00055684 
+samplenew_00042258 
+samplenew_00052351 
+samplenew_00064059 
+samplenew_00055377 
+samplenew_00045571 
+samplenew_00012114 
+samplenew_00033263 
+samplenew_00019628 
+samplenew_00003759 
+samplenew_00011694 
+samplenew_00025702 
+samplenew_00042212 
+samplenew_00043730 
+samplenew_00003026 
+samplenew_00065032 
+samplenew_00003547 
+samplenew_00026543 
+samplenew_00055388 
+samplenew_00020642 
+samplenew_00063323 
+samplenew_00024151 
+samplenew_00014450 
+samplenew_00035305 
+samplenew_00063828 
+samplenew_00016332 
+samplenew_00027615 
+samplenew_00054533 
+samplenew_00034459 
+samplenew_00053184 
+samplenew_00002062 
+samplenew_00036673 
+samplenew_00034142 
+samplenew_00058511 
+samplenew_00058177 
+samplenew_00057349 
+sample_00005661 
+samplenew_00034902 
+samplenew_00067834 
+samplenew_00028525 
+samplenew_00006576 
+samplenew_00069581 
+samplenew_00004790 
+samplenew_00047189 
+samplenew_00067095 
+samplenew_00065000 
+samplenew_00037928 
+samplenew_00038177 
+samplenew_00002244 
+samplenew_00039204 
+samplenew_00009857 
+samplenew_00056922 
+samplenew_00026925 
+samplenew_00011442 
+samplenew_00045638 
+samplenew_00022190 
+samplenew_00054601 
+sample_00002596 
+samplenew_00016785 
+samplenew_00004872 
+samplenew_00028274 
+samplenew_00063395 
+sample_00001859 
+samplenew_00067388 
+samplenew_00055366 
+sample_00004995 
+samplenew_00068447 
+samplenew_00018517 
+samplenew_00030797 
+samplenew_00061920 
+samplenew_00026602 
+samplenew_00008631 
+samplenew_00031843 
+samplenew_00041766 
+samplenew_00066014 
+samplenew_00046624 
+samplenew_00015934 
+samplenew_00037336 
+samplenew_00063864 
+samplenew_00010779 
+samplenew_00040864 
+samplenew_00041404 
+samplenew_00021908 
+samplenew_00059533 
+sample_00005949 
+samplenew_00023704 
+samplenew_00036118 
+samplenew_00064348 
+samplenew_00021194 
+samplenew_00067727 
+samplenew_00026408 
+samplenew_00046589 
+samplenew_00066792 
+samplenew_00008633 
+samplenew_00005487 
+samplenew_00031333 
+samplenew_00015982 
+samplenew_00052735 
+samplenew_00037859 
+samplenew_00008369 
+samplenew_00053990 
+samplenew_00054122 
+sample_00004331 
+samplenew_00020894 
+samplenew_00011114 
+samplenew_00014229 
+samplenew_00022175 
+samplenew_00008138 
+samplenew_00046458 
+samplenew_00015584 
+samplenew_00048728 
+samplenew_00024226 
+samplenew_00014785 
+samplenew_00032923 
+samplenew_00006111 
+samplenew_00006430 
+samplenew_00065284 
+samplenew_00011278 
+samplenew_00018488 
+sample_00006794 
+samplenew_00049392 
+samplenew_00004499 
+samplenew_00008030 
+samplenew_00007445 
+samplenew_00020590 
+samplenew_00015350 
+samplenew_00006139 
+samplenew_00022365 
+samplenew_00012739 
+sample_00002621 
+samplenew_00008586 
+samplenew_00023838 
+samplenew_00003616 
+samplenew_00057858 
+samplenew_00038787 
+samplenew_00047830 
+samplenew_00002887 
+samplenew_00042273 
+samplenew_00054184 
+samplenew_00003483 
+samplenew_00020280 
+samplenew_00049291 
+samplenew_00005314 
+samplenew_00012643 
+samplenew_00006322 
+samplenew_00018571 
+samplenew_00031187 
+sample_00000663 
+samplenew_00050299 
+samplenew_00002599 
+samplenew_00022547 
+samplenew_00052682 
+samplenew_00025821 
+samplenew_00056438 
+samplenew_00063077 
+samplenew_00047073 
+samplenew_00005166 
+samplenew_00032982 

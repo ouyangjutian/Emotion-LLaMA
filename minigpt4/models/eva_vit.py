@@ -411,7 +411,9 @@ def convert_weights_to_fp16(model: nn.Module):
 
     model.apply(_convert_weights_to_fp16)
     
-    
+"""
+该函数的主要目的是创建一个基于 Vision Transformer (ViT) 的视觉编码器模型（EVA-ViT-G），用于处理图像输入并提取特征。该模型特别适用于视觉-语言任务（如 BLIP-2 模型中的视觉部分）。
+"""    
 def create_eva_vit_g(img_size=224,drop_path_rate=0.4,use_checkpoint=False,precision="fp16"):
     model = VisionTransformer(
         img_size=img_size,

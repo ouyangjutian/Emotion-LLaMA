@@ -8,7 +8,7 @@ model:
   end_sym: "</s>"
   llama_model: "/home/project/Emotion-LLaMA/checkpoints/Llama-2-7b-chat-hf"
 
-  ckpt: "/home/project/Emotion-LLaMA/checkpoints/minigptv2_checkpoint.pth"
+  ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/MERR_coarse_grained/checkpoint_29.pth"
 
   use_grad_checkpoint: True
   chat_template: True

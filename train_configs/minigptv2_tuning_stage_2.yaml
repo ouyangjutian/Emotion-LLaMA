@@ -7,10 +7,10 @@ model:
   llama_model: "/home/project/Emotion-LLaMA/checkpoints/Llama-2-7b-chat-hf"
 
   # ckpt: "/home/czb/big_space/models/minigptv2/minigptv2_checkpoint.pth"
-  ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/2024xxxxxxx/checkpoint_29.pth"
+ # ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/MER2023_pseudo_label/20250920/stage2/20250920110/modelFile/checkpoint_29.pth"
 # 如果您没有运行 Stage 1 预训练代码，您可以直接设置提供的演示模型参数文件的路径：
 # Set Emotion-LLaMA path
-  # ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/Emoation_LLaMA.pth"
+  ckpt: "/home/project/Emotion-LLaMA/checkpoints/save_checkpoint/Emoation_LLaMA.pth"
   
   use_grad_checkpoint: True
   chat_template: True
